@@ -1,7 +1,7 @@
 {
   "profile": {
     "title": "US Embedded Engineering Lead Tracker",
-    "subtitle": "All 50 States + Washington DC",
+    "subtitle": "All 50 States + Washington DC · United States Only",
     "emoji": "⚙️"
   },
 
@@ -22,6 +22,7 @@
       "iot engineer",
       "iot developer",
       "device software engineer",
+      "device firmware engineer",
       "microcontroller engineer",
       "embedded applications engineer",
       "embedded application engineer",
@@ -66,7 +67,12 @@
       "avionics software engineer",
       "aerospace embedded engineer",
       "medical device engineer",
-      "medical device software engineer"
+      "medical device software engineer",
+      "systems engineer",
+      "platform engineer",
+      "software engineer",
+      "firmware",
+      "embedded systems"
     ],
 
     "exclude": [
@@ -87,16 +93,6 @@
       "fellowship",
       "volunteer",
       "work-study",
-      "manager",
-      "engineering manager",
-      "engineering director",
-      "director of engineering",
-      "vice president",
-      "vp engineering",
-      "chief technology",
-      "cto",
-      "architect",
-      "principal engineer",
       "sales engineer",
       "solutions engineer",
       "support engineer",
@@ -129,7 +125,11 @@
       "electronics engineer",
       "controls engineer",
       "IoT firmware engineer",
-      "device software engineer"
+      "device software engineer",
+      "microcontroller engineer",
+      "embedded systems",
+      "firmware",
+      "embedded software"
     ],
 
     "indeed": [
@@ -143,7 +143,11 @@
       "firmware developer",
       "robotics engineer",
       "hardware engineer",
-      "electronics engineer"
+      "electronics engineer",
+      "embedded C++ engineer",
+      "embedded C engineer",
+      "device software engineer",
+      "microcontroller engineer"
     ],
 
     "glassdoor": [
@@ -157,7 +161,9 @@
       "firmware developer",
       "robotics engineer",
       "hardware engineer",
-      "electronics engineer"
+      "electronics engineer",
+      "embedded C++ engineer",
+      "embedded C engineer"
     ],
 
     "ziprecruiter": [
@@ -171,7 +177,10 @@
       "firmware developer",
       "robotics engineer",
       "hardware engineer",
-      "electronics engineer"
+      "electronics engineer",
+      "embedded C++ engineer",
+      "embedded C engineer",
+      "device software engineer"
     ],
 
     "google_jobs": [
@@ -185,7 +194,15 @@
       "firmware developer",
       "robotics engineer",
       "hardware engineer",
-      "electronics engineer"
+      "electronics engineer",
+      "embedded C++ engineer",
+      "embedded C engineer",
+      "device software engineer",
+      "microcontroller engineer",
+      "IoT firmware engineer",
+      "robotics software engineer",
+      "embedded systems",
+      "embedded software"
     ],
 
     "hiring_cafe": [
@@ -199,12 +216,17 @@
       "firmware developer",
       "robotics engineer",
       "hardware engineer",
-      "electronics engineer"
+      "electronics engineer",
+      "embedded C++ engineer",
+      "embedded C engineer",
+      "device software engineer",
+      "microcontroller engineer"
     ],
 
     "calcareers": [],
     "usajobs": [],
     "governmentjobs": [],
+
     "workday": [
       "embedded software engineer",
       "embedded systems engineer",
@@ -215,7 +237,9 @@
       "firmware developer",
       "hardware engineer",
       "electronics engineer",
-      "robotics engineer"
+      "robotics engineer",
+      "embedded C++ engineer",
+      "embedded C engineer"
     ]
   },
 
@@ -646,7 +670,7 @@
     "terms": [
       ["STM32", "stm32"],
       ["ESP32", "esp32"],
-      ["Nordic", "nordic|nrf52|nrf53|nrf54"],
+      ["Nordic", "nordic|nrf51|nrf52|nrf53|nrf54"],
       ["FreeRTOS", "freertos"],
       ["Zephyr", "zephyr"],
       ["Embedded Linux", "embedded linux"],
