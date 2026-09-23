@@ -1,7 +1,29 @@
 {
-  "scraped_at": "2026-09-22 05:14 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-09-23 07:36 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Referment",
+      "title": "Infrastructure Software Engineer: Application Engineering (5F50207)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4470684747/",
+      "date_posted": "2026-09-23",
+      "salary": "$225,000.00/yr - $300,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Referment is working with a global investment and technology organisation to hire a lead-level Infrastructure Software Engineer for an application engineering team. You’ll build resilient internal platforms and services that improve software delivery and developer effectiveness across a technically demanding organisation.\n\nThe role combines hands-on distributed-systems engineering with technical architecture, product thinking and close collaboration. You’ll translate the needs of developers and infrastructure specialists into services that are reliable, usable and able to operate at significant scale.\n\nThe Role\n\nOwn infrastructure products and services that improve developer productivity.\nLead large technical projects from initial problem definition through design, delivery and operation.\nAct as a senior technical architect for the wider application engineering team.\nPartner with developers, application engineers and infrastructure specialists to understand user needs.\nShape product direction while making detailed engineering decisions and building production solutions.\n\nWhat We're Looking For\n\nAt least seven years of direct experience designing, building and scaling large distributed systems.\nHands-on experience building within the Kubernetes ecosystem.\nA track record of delivering complex developer-facing or user-facing products.\nStrong programming across one or more relevant languages such as Python, Go or Rust.\nA computer science or related technical degree.\nExcellent communication, self-management and stakeholder skills, with a service-oriented approach.\n\nDesirable Experience\n\nLinux and networking fundamentals.\nHands-on work with on-premises infrastructure.\n\nThis could suit a senior or staff software engineer, platform engineer or developer-infrastructure specialist who wants architectural responsibility without leaving hands-on delivery.\n\n#Referment\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development, IT Services and IT Consulting, and Investment Management"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Referment",
+      "title": "Infrastructure Software Engineer: Application Engineering (5F50207)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4470684747/",
+      "date_posted": "2026-09-23",
+      "salary": "$225,000.00/yr - $300,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Referment is working with a global investment and technology organisation to hire a lead-level Infrastructure Software Engineer for an application engineering team. You’ll build resilient internal platforms and services that improve software delivery and developer effectiveness across a technically demanding organisation.\n\nThe role combines hands-on distributed-systems engineering with technical architecture, product thinking and close collaboration. You’ll translate the needs of developers and infrastructure specialists into services that are reliable, usable and able to operate at significant scale.\n\nThe Role\n\nOwn infrastructure products and services that improve developer productivity.\nLead large technical projects from initial problem definition through design, delivery and operation.\nAct as a senior technical architect for the wider application engineering team.\nPartner with developers, application engineers and infrastructure specialists to understand user needs.\nShape product direction while making detailed engineering decisions and building production solutions.\n\nWhat We're Looking For\n\nAt least seven years of direct experience designing, building and scaling large distributed systems.\nHands-on experience building within the Kubernetes ecosystem.\nA track record of delivering complex developer-facing or user-facing products.\nStrong programming across one or more relevant languages such as Python, Go or Rust.\nA computer science or related technical degree.\nExcellent communication, self-management and stakeholder skills, with a service-oriented approach.\n\nDesirable Experience\n\nLinux and networking fundamentals.\nHands-on work with on-premises infrastructure.\n\nThis could suit a senior or staff software engineer, platform engineer or developer-infrastructure specialist who wants architectural responsibility without leaving hands-on delivery.\n\n#Referment\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development, IT Services and IT Consulting, and Investment Management"
+    }
+  ]
 }
