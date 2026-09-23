@@ -1,5 +1,5 @@
-# ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-09-22 03:15 UTC*
+# ☕ HiringCafe — US Embedded Engineering Lead Roles
+*Last updated: 2026-09-23 02:50 UTC*
 
 **0 new role(s)** since last run · 18 total in last 30d
 
