@@ -1,26 +1,32 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-09-25 07:05 UTC*
+*Last updated: 2026-09-26 03:35 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Power Systems Engineer](https://www.linkedin.com/jobs/view/4470056866/) — Caterpillar Inc.
-- 📍 **Location:** Georgia, United States
-- 💰 **Salary:** $89,210.00 - $133,810.00
-- 🕒 **Posted:** 2026-09-25
-
-### [Warehouse Automation Engineer (remote)](https://www.linkedin.com/jobs/view/4470058826/) — Ryder System, Inc.
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4470770085/) — Pearson
 - 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-09-25
+- 💰 **Salary:** $150,000 - $170,000
+- 🕒 **Posted:** 2026-09-26
 
-### [Warehouse Automation Engineer (remote)](https://www.linkedin.com/jobs/view/4470056939/) — Ryder System, Inc.
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-09-25
-
-### [Project Controls Engineer](https://www.linkedin.com/jobs/view/4470072119/) — Cognizant
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, Infrastructure - Self Managed Experience (SMX)](https://www.linkedin.com/jobs/view/4470119661/) — Camunda
+### [Software Engineer](https://www.linkedin.com/jobs/view/4470712252/) — Crossing Hurdles
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $119,900.00 to $193,200.00
-- 🕒 **Posted:** 2026-09-25
+- 🕒 **Posted:** 2026-09-26
+
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4470769083/) — Pearson
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** $150,000 - $170,000
+- 🕒 **Posted:** 2026-09-26
+
+### [PLC and Controls Engineer](https://www.linkedin.com/jobs/view/4470757979/) — Infinite Resource Solutions, LLC
+- 📍 **Location:** Washington DC-Baltimore Area
+- 🕒 **Posted:** 2026-09-26
+
+### [DevSecOps / Platform Engineer](https://www.linkedin.com/jobs/view/4472250189/) — Peregrine Advisors
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $120,000 to $150,000 per year
+- 🕒 **Posted:** 2026-09-26
+
+### [Senior Frontend Software Engineer, Discovery](https://www.linkedin.com/jobs/view/4472247398/) — Anduril Industries
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $191,000—$253,000 USD
+- 🕒 **Posted:** 2026-09-26
