@@ -1,87 +1,98 @@
 # 🟦 Indeed — US Embedded Engineering Lead Roles
-*Last updated: 2026-09-27 00:01 UTC*
+*Last updated: 2026-09-27 05:52 UTC*
 
-**12 new role(s)** since last run · 173 total in last 24h
+**14 new role(s)** since last run · 106 total in last 24h
 
-### [Software Engineer, ML Research Tools](https://www.indeed.com/viewjob?jk=1e17d01524519ece) — CURSOR
-- 📍 **Location:** San Francisco, CA, US
+### [Tech Lead - Hardware /Embedded Engineer](https://www.indeed.com/viewjob?jk=2e26df006fba0ba5) — Cisco
+- 📍 **Location:** Santa Monica, CA, US
+- 💰 **Salary:** $151k–$282k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-27
+
+### [Signal Processing Software Engineer (DSP & Communications Systems)](https://www.indeed.com/viewjob?jk=ef653f2cd790a1f3) — Keysight Technologies
+- 📍 **Location:** Santa Rosa, CA, US
+- 💰 **Salary:** $123k–$199k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
+
+### [Principal Hardware Engineer](https://www.indeed.com/viewjob?jk=3e49a7fb8ebdf9f4) — Cisco
+- 📍 **Location:** Santa Monica, CA, US
+- 💰 **Salary:** $221k–$380k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-27
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=e683c4851f6a2ace) — Astek Services
+- 📍 **Location:** Colorado Springs, CO, US
+- 💰 **Salary:** $94k–$150k/yr
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-09-27
+
+### [Software Engineer, Sr.](https://www.indeed.com/viewjob?jk=762a346d3a449e84) — The GEO Group, Inc.
+- 📍 **Location:** Boulder, CO, US
+- 💰 **Salary:** $120k–$140k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
+
+### [Air Operations Systems Engineer (Test & Evaluation)](https://www.indeed.com/viewjob?jk=85f3928f15fc13fa) — Odyssey Systems Consulting Group
+- 📍 **Location:** Niceville, FL, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-26
 
-### [Lead Systems Engineer - San Diego, CA](https://www.indeed.com/viewjob?jk=0c867bb8c0949d6d) — Serco
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $114k–$191k/yr
+### [Flight Software Engineer](https://www.indeed.com/viewjob?jk=dd04db9158284b4c) — Intuitive Machines
+- 📍 **Location:** Greenbelt, MD, US
+- 💰 **Salary:** $150k–$158k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-27
+
+### [Software Engineer / Developer – STRL Personnel Management Systems](https://www.indeed.com/viewjob?jk=6d2f9ed9953a37fb) — Goldbelt
+- 📍 **Location:** Silver Spring, MD, US
+- 💰 **Salary:** $125k–$130k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
+
+### [2026 Associate Electronics Engineer - Baltimore MD](https://www.indeed.com/viewjob?jk=8027f4be153a9bd1) — Northrop Grumman
+- 📍 **Location:** Baltimore, MD, US
+- 💰 **Salary:** $73k–$109k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2025-12-31
+
+### [Senior Principal Systems Engineer, Hardware Tech Lead Onsite](https://www.indeed.com/viewjob?jk=ef2cde5a55d0731d) — Raytheon
+- 📍 **Location:** Woburn, MA, US
+- 💰 **Salary:** $132k–$252k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-26
+
+### [Java Full Stack Developer-Software Engineer III](https://www.indeed.com/viewjob?jk=b9960bbb7b643cd4) — Deloitte
+- 📍 **Location:** St. Louis, MO, US
+- 💰 **Salary:** $103k–$171k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-26
 
-### [Experienced Electrical Engineer - Panama City, FL](https://www.indeed.com/viewjob?jk=755af5733781ee70) — Serco
-- 📍 **Location:** Panama City, FL, US
-- 💰 **Salary:** $85k–$130k/yr
+### [Power Systems Engineer - Raleigh, NC](https://www.indeed.com/viewjob?jk=94178bf454d9902e) — Delta Electronics (Americas) Ltd.
+- 📍 **Location:** Morrisville, NC, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-26
+- 🕒 **Posted:** 2026-09-25
 
-### [Senior Systems Engineer](https://www.indeed.com/viewjob?jk=f41a3979805ad4e9) — Serco
+### [SME Software Engineer](https://www.indeed.com/viewjob?jk=394bea5324bc05f9) — Serco
 - 📍 **Location:** Wright-Patterson AFB, OH, US
 - 💰 **Salary:** $122k–$211k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-26
 
-### [Senior Systems Engineer](https://www.indeed.com/viewjob?jk=7d2bf44332c30616) — Serco
-- 📍 **Location:** Wright-Patterson AFB, OH, US
-- 💰 **Salary:** $122k–$211k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Systems Engineer](https://www.indeed.com/viewjob?jk=ba12b4ebbf847a24) — Serco
-- 📍 **Location:** Wright-Patterson AFB, OH, US
-- 💰 **Salary:** $122k–$211k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-26
-
-### [Senior Electrical Engineer](https://www.indeed.com/viewjob?jk=ca32024b25e6e886) — Serco
-- 📍 **Location:** Wright-Patterson AFB, OH, US
-- 💰 **Salary:** $122k–$211k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-26
-
-### [Electrical Engineer- Middletown, RI](https://www.indeed.com/viewjob?jk=4d53d8fd9667d254) — Serco
-- 📍 **Location:** Middletown, RI, US
-- 💰 **Salary:** $68k–$113k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-26
-
-### [Electrical Engineer- Middletown, RI](https://www.indeed.com/viewjob?jk=991a456958d1a1a1) — Serco
-- 📍 **Location:** Middletown, RI, US
-- 💰 **Salary:** $85k–$142k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-26
-
-### [Sr. Electrical/Electronics Engineer](https://www.indeed.com/viewjob?jk=575096ad1335a5f9) — Serco
-- 📍 **Location:** Charleston, SC, US
-- 💰 **Salary:** $85k–$120k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-26
-
-### [Non-Propulsion Electronics Systems Engineer](https://www.indeed.com/viewjob?jk=5aaad2aea6f3b1b5) — Serco
-- 📍 **Location:** Washington Navy Yard, DC, US
-- 💰 **Salary:** $98k–$163k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-26
-
-### [Non-Propulsion Electronics Systems Engineer](https://www.indeed.com/viewjob?jk=006c6d674195b038) — Serco
-- 📍 **Location:** Washington Navy Yard, DC, US
-- 💰 **Salary:** $98k–$163k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-26
+### [Senior Mechanical/Robotics Engineering Consultant](https://www.indeed.com/viewjob?jk=22a6056704d9eb2b) — Infratek Group LLC
+- 📍 **Location:** New Hope, PA, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** contract
+- 🕒 **Posted:** 2026-09-27
