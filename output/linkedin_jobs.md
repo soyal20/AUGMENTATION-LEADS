@@ -1,18 +1,28 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-09-27 23:37 UTC*
+*Last updated: 2026-09-28 04:28 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Electrical Controls Engineer](https://www.linkedin.com/jobs/view/4472467024/) — Komline
-- 📍 **Location:** Illinois, United States
-- 💰 **Salary:** $90,000.00/mo - $130,000.00/mo
-- 🕒 **Posted:** 2026-09-27
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471301869/) — Haystack
+- 📍 **Location:** Georgia, United States
+- 🕒 **Posted:** 2026-09-28
 
-### [Software Engineer (SWIFT), Global Banking & Markets, Transaction Banking](https://www.linkedin.com/jobs/view/4471315100/) — Goldman Sachs
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $115,000-$180,000
-- 🕒 **Posted:** 2026-09-27
+### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4471317287/) — Haystack
+- 📍 **Location:** Maryland, United States
+- 💰 **Salary:** $69,550 – $125,725
+- 🕒 **Posted:** 2026-09-28
 
-### [Mechanical/Electrical Engineering](https://www.linkedin.com/jobs/view/4465799241/) — Keystone Experts + Engineers
-- 📍 **Location:** Ohio, United States
-- 🕒 **Posted:** 2026-09-27
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471324020/) — Haystack
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $107,900 - $195,050
+- 🕒 **Posted:** 2026-09-28
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4471314521/) — Haystack
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $107,900 - $195,050
+- 🕒 **Posted:** 2026-09-28
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471314510/) — Haystack
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $107,900 - $195,050
+- 🕒 **Posted:** 2026-09-28
