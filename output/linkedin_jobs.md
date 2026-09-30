@@ -1,23 +1,44 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-09-28 09:00 UTC*
+*Last updated: 2026-09-30 22:30 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Software Engineer - 174797](https://www.linkedin.com/jobs/view/4471328636/) — Zachary Piper Solutions
+### [Hardware Design Engineer](https://www.linkedin.com/jobs/view/4472353164/) — MSR Technology Group
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-09-30
+
+### [Electronics Design Engineer](https://www.linkedin.com/jobs/view/4472345374/) — MSR Technology Group
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior UAS GNC Systems Engineer](https://www.linkedin.com/jobs/view/4472336983/) — Scientific Applications & Research Associates (SARA), Inc.
 - 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $170,000 - $210,000
-- 🕒 **Posted:** 2026-09-28
+- 💰 **Salary:** $125,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-30
 
-### [Nuclear Facility Electrical Engineer](https://www.linkedin.com/jobs/view/4462557558/) — Idaho National Laboratory
-- 📍 **Location:** Idaho Falls, ID
-- 💰 **Salary:** $95,256 - $195,288
-- 🕒 **Posted:** 2026-09-28
+### [Sr Platform Engineer](https://www.linkedin.com/jobs/view/4473955591/) — Cboe Global Markets
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $131,750-$170,500,
+- 🕒 **Posted:** 2026-09-30
 
-### [Automation Engineer - Beckhoff TwinCAT - USA](https://www.linkedin.com/jobs/view/4424079425/) — ekvip automation GmbH
-- 📍 **Location:** Rhode Island, United States
-- 🕒 **Posted:** 2026-09-28
+### [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4472350570/) — Black Rock Solutions Corporation
+- 📍 **Location:** Kansas City, MO
+- 🕒 **Posted:** 2026-09-30
 
-### [DevSecOps / Platform Engineer](https://www.linkedin.com/jobs/view/4472707253/) — Peregrine Advisors
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $120,000 to $150,000 per year
-- 🕒 **Posted:** 2026-09-28
+### [Graduate Building Systems Engineer (Available 2027)](https://www.linkedin.com/jobs/view/4473969145/) — Arup
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $79,500 to $86,500 per year
+- 🕒 **Posted:** 2026-09-30
+
+### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4473073702/) — Scale
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-30
+
+### [Electrical, Instrument, & Controls Engineer](https://www.linkedin.com/jobs/view/4473970026/) — Wood
+- 📍 **Location:** Washington, WV
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Electrical Engineer](https://www.linkedin.com/jobs/view/4463512643/) — Engtal
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-30
