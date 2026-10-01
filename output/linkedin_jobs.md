@@ -1,44 +1,71 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-09-30 22:30 UTC*
+*Last updated: 2026-10-01 22:44 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Hardware Design Engineer](https://www.linkedin.com/jobs/view/4472353164/) — MSR Technology Group
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4474519434/) — MaximaTek
 - 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-09-30
+- 🕒 **Posted:** 2026-10-01
 
-### [Electronics Design Engineer](https://www.linkedin.com/jobs/view/4472345374/) — MSR Technology Group
+### [Senior Firmware Engineer](https://www.linkedin.com/jobs/view/4474511734/) — Nexwave
 - 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-09-30
+- 🕒 **Posted:** 2026-10-01
 
-### [Senior UAS GNC Systems Engineer](https://www.linkedin.com/jobs/view/4472336983/) — Scientific Applications & Research Associates (SARA), Inc.
+### [Comm/Electrical Engineer](https://www.linkedin.com/jobs/view/4472801985/) — Astrion
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-10-01
+
+### [Systems Engineer, Mid Level – SATCOM Training & Simulation Support](https://www.linkedin.com/jobs/view/4472824104/) — UICGS / Bowhead Family of Companies
 - 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $125,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-09-30
+- 💰 **Salary:** $90,000 to $110,000 annually
+- 🕒 **Posted:** 2026-10-01
 
-### [Sr Platform Engineer](https://www.linkedin.com/jobs/view/4473955591/) — Cboe Global Markets
+### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4472552918/) — Amtex Systems Inc
+- 📍 **Location:** Georgia, United States
+- 🕒 **Posted:** 2026-10-01
+
+### [LibertyWorks Systems Engineer](https://www.linkedin.com/jobs/view/4474517887/) — Rolls-Royce
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $98,566 - $160,169
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Embedded Software Engineer - Linux, SoC & Hardware Integration (Remote)](https://www.linkedin.com/jobs/view/4474526337/) — Attis
+- 📍 **Location:** Kansas, United States
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Electrical Engineer – High-Speed Digital & RF Integration (Remote)](https://www.linkedin.com/jobs/view/4474509898/) — Attis
+- 📍 **Location:** Kansas, United States
+- 🕒 **Posted:** 2026-10-01
+
+### [Early Career Electrical Engineering (ESSP)](https://www.linkedin.com/jobs/view/4474536195/) — WSP in the U.S.
 - 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $131,750-$170,500,
-- 🕒 **Posted:** 2026-09-30
+- 🕒 **Posted:** 2026-10-01
 
-### [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4472350570/) — Black Rock Solutions Corporation
-- 📍 **Location:** Kansas City, MO
-- 🕒 **Posted:** 2026-09-30
+### [Electrical Engineer](https://www.linkedin.com/jobs/view/4463535505/) — GIA (Gemological Institute of America)
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $94,960 - $113,000
+- 🕒 **Posted:** 2026-10-01
 
-### [Graduate Building Systems Engineer (Available 2027)](https://www.linkedin.com/jobs/view/4473969145/) — Arup
+### [Senior/Staff Software Engineer, Database Team](https://www.linkedin.com/jobs/view/4474541048/) — Pinecone
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $79,500 to $86,500 per year
-- 🕒 **Posted:** 2026-09-30
+- 💰 **Salary:** $190K - $270K
+- 🕒 **Posted:** 2026-10-01
 
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4473073702/) — Scale
+### [Senior Associate, Platform Engineer](https://www.linkedin.com/jobs/view/4474514891/) — Pfizer
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-30
+- 💰 **Salary:** $79,400.00 to $132,400.00
+- 🕒 **Posted:** 2026-10-01
 
-### [Electrical, Instrument, & Controls Engineer](https://www.linkedin.com/jobs/view/4473970026/) — Wood
-- 📍 **Location:** Washington, WV
-- 🕒 **Posted:** 2026-09-30
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4472836009/) — United Pharma Technologies Inc
+- 📍 **Location:** Ohio, United States
+- 🕒 **Posted:** 2026-10-01
 
-### [Senior Electrical Engineer](https://www.linkedin.com/jobs/view/4463512643/) — Engtal
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-09-30
+### [Senior C++ Software Engineer](https://www.linkedin.com/jobs/view/4467108745/) — HCM Staffing and Consulting Group
+- 📍 **Location:** Fort Washington, PA
+- 💰 **Salary:** $60.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-10-01
+
+### [Staff Systems Engineer, Enterprise Mesh](https://www.linkedin.com/jobs/view/4474533225/) — Anduril Industries
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $191,000—$253,000 USD
+- 🕒 **Posted:** 2026-10-01
