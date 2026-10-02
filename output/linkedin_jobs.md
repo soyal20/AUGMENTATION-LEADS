@@ -1,71 +1,64 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-01 22:44 UTC*
+*Last updated: 2026-10-02 02:16 UTC*
 
-**15 new role(s)** since last run · 15 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4474519434/) — MaximaTek
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Firmware Engineer](https://www.linkedin.com/jobs/view/4474511734/) — Nexwave
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Comm/Electrical Engineer](https://www.linkedin.com/jobs/view/4472801985/) — Astrion
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Systems Engineer, Mid Level – SATCOM Training & Simulation Support](https://www.linkedin.com/jobs/view/4472824104/) — UICGS / Bowhead Family of Companies
+### [Principle Systems Engineer](https://www.linkedin.com/jobs/view/4472854040/) — Space Dynamics Laboratory
 - 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $90,000 to $110,000 annually
-- 🕒 **Posted:** 2026-10-01
+- 💰 **Salary:** $170,000 - $210,000
+- 🕒 **Posted:** 2026-10-02
 
-### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4472552918/) — Amtex Systems Inc
-- 📍 **Location:** Georgia, United States
-- 🕒 **Posted:** 2026-10-01
+### [Electrical Engineering Development Program](https://www.linkedin.com/jobs/view/4472922937/) — Horizon Lane
+- 📍 **Location:** Kentucky, United States
+- 💰 **Salary:** $70,000–$75,000 per year
+- 🕒 **Posted:** 2026-10-02
 
-### [LibertyWorks Systems Engineer](https://www.linkedin.com/jobs/view/4474517887/) — Rolls-Royce
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $98,566 - $160,169
-- 🕒 **Posted:** 2026-10-01
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4472833929/) — Cindavi
+- 📍 **Location:** Portland, Maine Metropolitan Area
+- 💰 **Salary:** $65,000.00/yr - $75,000.00/yr
+- 🕒 **Posted:** 2026-10-02
 
-### [Senior Embedded Software Engineer - Linux, SoC & Hardware Integration (Remote)](https://www.linkedin.com/jobs/view/4474526337/) — Attis
-- 📍 **Location:** Kansas, United States
-- 🕒 **Posted:** 2026-10-01
+### [Automation Engineer](https://www.linkedin.com/jobs/view/4472848226/) — Cindavi
+- 📍 **Location:** Portland, Maine Metropolitan Area
+- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
+- 🕒 **Posted:** 2026-10-02
 
-### [Senior Electrical Engineer – High-Speed Digital & RF Integration (Remote)](https://www.linkedin.com/jobs/view/4474509898/) — Attis
-- 📍 **Location:** Kansas, United States
-- 🕒 **Posted:** 2026-10-01
+### [Mechatronics Engineer](https://www.linkedin.com/jobs/view/4472835759/) — Cindavi
+- 📍 **Location:** Portland, Maine Metropolitan Area
+- 💰 **Salary:** $65,000.00/yr - $75,000.00/yr
+- 🕒 **Posted:** 2026-10-02
 
-### [Early Career Electrical Engineering (ESSP)](https://www.linkedin.com/jobs/view/4474536195/) — WSP in the U.S.
-- 📍 **Location:** Kansas City, MO
-- 🕒 **Posted:** 2026-10-01
-
-### [Electrical Engineer](https://www.linkedin.com/jobs/view/4463535505/) — GIA (Gemological Institute of America)
-- 📍 **Location:** New Jersey, United States
-- 💰 **Salary:** $94,960 - $113,000
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior/Staff Software Engineer, Database Team](https://www.linkedin.com/jobs/view/4474541048/) — Pinecone
+### [Software Engineer (AI Training) — Remote Contract](https://www.linkedin.com/jobs/view/4474573039/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $190K - $270K
-- 🕒 **Posted:** 2026-10-01
+- 💰 **Salary:** $20.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-10-02
 
-### [Senior Associate, Platform Engineer](https://www.linkedin.com/jobs/view/4474514891/) — Pfizer
+### [Software Engineer III, Engineering Productivity, Google Cloud Platforms](https://www.linkedin.com/jobs/view/4472858251/) — Google
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $79,400.00 to $132,400.00
-- 🕒 **Posted:** 2026-10-01
+- 💰 **Salary:** $147000 - $210000
+- 🕒 **Posted:** 2026-10-02
 
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4472836009/) — United Pharma Technologies Inc
-- 📍 **Location:** Ohio, United States
-- 🕒 **Posted:** 2026-10-01
+### [Staff Software Engineer](https://www.linkedin.com/jobs/view/4472853312/) — Shepherd
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $225,000.00/yr - $255,000.00/yr
+- 🕒 **Posted:** 2026-10-02
 
-### [Senior C++ Software Engineer](https://www.linkedin.com/jobs/view/4467108745/) — HCM Staffing and Consulting Group
-- 📍 **Location:** Fort Washington, PA
-- 💰 **Salary:** $60.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-10-01
+### [Senior Software Engineer (AI Infrastructure)](https://www.linkedin.com/jobs/view/4474573022/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $20.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-10-02
 
-### [Staff Systems Engineer, Enterprise Mesh](https://www.linkedin.com/jobs/view/4474533225/) — Anduril Industries
+### [Software Engineer (AI Training)](https://www.linkedin.com/jobs/view/4474570276/) — Alignerr
 - 📍 **Location:** Washington, DC
-- 💰 **Salary:** $191,000—$253,000 USD
-- 🕒 **Posted:** 2026-10-01
+- 💰 **Salary:** $20.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-10-02
+
+### [Sr. Software Engineer, AI Infrastructure (Starshield)](https://www.linkedin.com/jobs/view/4474565646/) — SpaceX
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $165,000.00 - $265,000.00
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, AI Infrastructure (Starshield)](https://www.linkedin.com/jobs/view/4474567629/) — SpaceX
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $125,000.00 - $160,000.00
+- 🕒 **Posted:** 2026-10-02
