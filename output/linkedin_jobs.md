@@ -1,73 +1,66 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-02 22:45 UTC*
+*Last updated: 2026-10-03 01:52 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Jr. Systems Engineer - Colorado Springs, Colorado](https://www.linkedin.com/jobs/view/4475012571/) — Davidson Technologies
-- 📍 **Location:** Colorado Springs, CO
-- 🕒 **Posted:** 2026-10-02
+### [CADRE Data/Software Engineer](https://www.linkedin.com/jobs/view/4475057465/) — Federal Reserve Bank of Kansas City
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $113,500 - $161,600
+- 🕒 **Posted:** 2026-10-03
 
-### [Jr. Infrared Hard Body Systems Engineer - Colorado Springs, Colorado](https://www.linkedin.com/jobs/view/4475002941/) — Davidson Technologies
-- 📍 **Location:** Colorado Springs, CO
-- 🕒 **Posted:** 2026-10-02
+### [Senior Software Engineer, Agentic AI](https://www.linkedin.com/jobs/view/4473803726/) — NVIDIA
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-03
 
-### [Systems Engineer - Colorado Springs, Colorado](https://www.linkedin.com/jobs/view/4475013445/) — Davidson Technologies
-- 📍 **Location:** Colorado Springs, CO
-- 🕒 **Posted:** 2026-10-02
-
-### [Jr. to Mid Kinematics Systems Engineer- Colorado Springs, Colorado](https://www.linkedin.com/jobs/view/4475015398/) — Davidson Technologies
-- 📍 **Location:** Colorado Springs, CO
-- 🕒 **Posted:** 2026-10-02
-
-### [Jr. Missile Modeling IR Plume Systems Engineer - Colorado Springs, Colorado](https://www.linkedin.com/jobs/view/4475001923/) — Davidson Technologies
-- 📍 **Location:** Colorado Springs, CO
-- 🕒 **Posted:** 2026-10-02
-
-### [Staff Application Software Engineer - Weston, FL](https://www.linkedin.com/jobs/view/4473165851/) — Matlen Silver
-- 📍 **Location:** Florida, United States
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4473385625/) — Insight Global
-- 📍 **Location:** Indiana, United States
-- 💰 **Salary:** $50.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-02
-
-### [Pre-NTP Electrical Engineer](https://www.linkedin.com/jobs/view/4475037004/) — AES Indiana
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Software Engineer (Institutional, Settlements & Transfers)](https://www.linkedin.com/jobs/view/4475026500/) — Coinbase
+### [Software Engineer, iOS, Level 5](https://www.linkedin.com/jobs/view/4475058325/) — Snap Inc.
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $207,955 USD - $218,900 USD
-- 🕒 **Posted:** 2026-10-02
+- 💰 **Salary:** $209,000-$313,000 annually
+- 🕒 **Posted:** 2026-10-03
 
-### [Senior Software Engineer (Institutional, Financing)](https://www.linkedin.com/jobs/view/4475023597/) — Coinbase
+### [Software Engineer, Compute Operations](https://www.linkedin.com/jobs/view/4473824261/) — Fluidstack
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $207,955 USD - $218,900 USD
-- 🕒 **Posted:** 2026-10-02
+- 💰 **Salary:** $224,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-10-03
 
-### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4473379964/) — Accrete
+### [Software Engineer,  Data Center Automation](https://www.linkedin.com/jobs/view/4473831015/) — Fluidstack
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-02
+- 💰 **Salary:** $224,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer - Hybrid NYC](https://www.linkedin.com/jobs/view/4475028619/) — Remotefolio
+### [Software Engineer](https://www.linkedin.com/jobs/view/4475060115/) — Capgemini
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-03
+
+### [Software Engineer, New Grad (2027)](https://www.linkedin.com/jobs/view/4473831057/) — Harvey
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $165,000-$181,500
+- 🕒 **Posted:** 2026-10-03
+
+### [Software Engineer, Manufacturing & Supply Chain](https://www.linkedin.com/jobs/view/4473831014/) — Fluidstack
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $185,000–$225,000/yr
-- 🕒 **Posted:** 2026-10-02
+- 💰 **Salary:** $224,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-10-03
 
-### [Senior Electrical Engineer](https://www.linkedin.com/jobs/view/4475036216/) — Vallum Associates
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-02
+### [Senior Electrical Engineer (PE)](https://www.linkedin.com/jobs/view/4473814955/) — NELSON Worldwide
+- 📍 **Location:** Oregon, United States
+- 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471720884/) — BeaconFire Inc.
-- 📍 **Location:** Texas, United States
-- 💰 **Salary:** $70,000.00/yr - $75,000.00/yr
-- 🕒 **Posted:** 2026-10-02
+### [Software Engineer, Sr.](https://www.linkedin.com/jobs/view/4473927690/) — Harris Computer
+- 📍 **Location:** Utah, United States
+- 💰 **Salary:** $105,000 - $115,000 USD per year
+- 🕒 **Posted:** 2026-10-03
 
-### [DataPower Platform Engineer](https://www.linkedin.com/jobs/view/4473192271/) — CoSourcing Partners - Enterprise-AI and IT Services Company
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4473397446/) — Modern Technology Solutions, Inc. (MTSI)
+### [Vulnerability Defense Software Engineer, Cloudforce One](https://www.linkedin.com/jobs/view/4473195590/) — Cloudflare
 - 📍 **Location:** Washington, DC
+- 💰 **Salary:** $150,000 - $206,000
+- 🕒 **Posted:** 2026-10-03
+
+### [Software Engineer – Build & Release](https://www.linkedin.com/jobs/view/4473395753/) — Quest Global
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $100,000-$115,000 per annum
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Software Engineer, C++ | NMS](https://www.linkedin.com/jobs/view/4475044783/) — NinjaOne
+- 📍 **Location:** Massachusetts, United States
+- 💰 **Salary:** $150,000 to $220,000 per year
 - 🕒 **Posted:** 2026-10-02
