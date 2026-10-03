@@ -1,66 +1,53 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-03 01:52 UTC*
+*Last updated: 2026-10-03 11:16 UTC*
 
-**13 new role(s)** since last run · 13 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [CADRE Data/Software Engineer](https://www.linkedin.com/jobs/view/4475057465/) — Federal Reserve Bank of Kansas City
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $113,500 - $161,600
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473860198/) — Haystack
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 💰 **Salary:** $143,700 - $194,400,
 - 🕒 **Posted:** 2026-10-03
 
-### [Senior Software Engineer, Agentic AI](https://www.linkedin.com/jobs/view/4473803726/) — NVIDIA
-- 📍 **Location:** New York, United States
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473853509/) — Haystack
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $143,700 - $194,400,
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer, iOS, Level 5](https://www.linkedin.com/jobs/view/4475058325/) — Snap Inc.
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $209,000-$313,000 annually
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473863118/) — Haystack
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 💰 **Salary:** $143,700 - $194,400
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer, Compute Operations](https://www.linkedin.com/jobs/view/4473824261/) — Fluidstack
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $224,000.00/yr - $300,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473862125/) — Haystack
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $143,700 - $194,400
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer,  Data Center Automation](https://www.linkedin.com/jobs/view/4473831015/) — Fluidstack
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $224,000.00/yr - $300,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473863115/) — Haystack
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 💰 **Salary:** $143,700 - $194,400
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4475060115/) — Capgemini
-- 📍 **Location:** New York, United States
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473849600/) — Haystack
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $143,700 - $194,400
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer, New Grad (2027)](https://www.linkedin.com/jobs/view/4473831057/) — Harvey
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $165,000-$181,500
-- 🕒 **Posted:** 2026-10-03
-
-### [Software Engineer, Manufacturing & Supply Chain](https://www.linkedin.com/jobs/view/4473831014/) — Fluidstack
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $224,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-10-03
-
-### [Senior Electrical Engineer (PE)](https://www.linkedin.com/jobs/view/4473814955/) — NELSON Worldwide
-- 📍 **Location:** Oregon, United States
-- 🕒 **Posted:** 2026-10-03
-
-### [Software Engineer, Sr.](https://www.linkedin.com/jobs/view/4473927690/) — Harris Computer
-- 📍 **Location:** Utah, United States
-- 💰 **Salary:** $105,000 - $115,000 USD per year
-- 🕒 **Posted:** 2026-10-03
-
-### [Vulnerability Defense Software Engineer, Cloudforce One](https://www.linkedin.com/jobs/view/4473195590/) — Cloudflare
+### [Senior Software Engineer (SatOS-Rust Team)](https://www.linkedin.com/jobs/view/4297658872/) — Spire
 - 📍 **Location:** Washington, DC
-- 💰 **Salary:** $150,000 - $206,000
+- 💰 **Salary:** $130,500 USD - $171,000 USD
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer – Build & Release](https://www.linkedin.com/jobs/view/4473395753/) — Quest Global
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $100,000-$115,000 per annum
-- 🕒 **Posted:** 2026-10-02
+### [Software Engineer II, Fullstack (App Experience)](https://www.linkedin.com/jobs/view/4456269773/) — Affirm
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $165,000 - $225,000
+- 🕒 **Posted:** 2026-10-03
 
-### [Senior Software Engineer, C++ | NMS](https://www.linkedin.com/jobs/view/4475044783/) — NinjaOne
-- 📍 **Location:** Massachusetts, United States
-- 💰 **Salary:** $150,000 to $220,000 per year
-- 🕒 **Posted:** 2026-10-02
+### [Senior Electrical Engineer - Rail & Transit](https://www.linkedin.com/jobs/view/4456293135/) — Burns Engineering, Inc.
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-03
+
+### [Software Engineer II, Fullstack (Card Acquisition)](https://www.linkedin.com/jobs/view/4446450307/) — Affirm
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $195000 - $255000
+- 🕒 **Posted:** 2026-10-03
