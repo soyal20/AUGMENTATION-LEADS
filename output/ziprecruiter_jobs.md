@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — US Embedded Engineering Lead Roles
-*Last updated: 2026-09-26 01:45 UTC*
+*Last updated: 2026-10-04 08:25 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
