@@ -1,65 +1,56 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-06 11:34 UTC*
+*Last updated: 2026-10-06 22:46 UTC*
 
-**13 new role(s)** since last run · 13 total in last 1h
+**11 new role(s)** since last run · 11 total in last 1h
 
-### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4474694508/) — SAIC
-- 📍 **Location:** Indianapolis, IN
+### [Software Engineer I(RTX)](https://www.linkedin.com/jobs/view/4476363633/) — ScoutBetter
+- 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4342702745/) — OCLC
-- 📍 **Location:** Minnesota, United States
+### [Field Electrical Engineer](https://www.linkedin.com/jobs/view/4476372446/) — NV5
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $100,000 - $135,000 per year
 - 🕒 **Posted:** 2026-10-06
 
-### [Electrical Engineer](https://www.linkedin.com/jobs/view/4402167879/) — HDR
-- 📍 **Location:** Kansas City, MO
+### [Field Electrical Engineer](https://www.linkedin.com/jobs/view/4476363870/) — NV5
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $100,000 - $135,000 per year
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer III, Mobile, Android, Applied AI](https://www.linkedin.com/jobs/view/4474690816/) — Google
+### [Field Electrical Engineer](https://www.linkedin.com/jobs/view/4476374434/) — NV5
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $100,000 - $135,000 per year
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer Senior](https://www.linkedin.com/jobs/view/4475115540/) — Acuity
+- 📍 **Location:** Washington, MO
+- 💰 **Salary:** $120,800.00 to $217,400.00 USD
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4476378922/) — Navan
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $147000 - $210000
+- 💰 **Salary:** $113,400 USD - $252,000 USD
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer, Consensus](https://www.linkedin.com/jobs/view/4476168536/) — Anza
+### [Software Engineer](https://www.linkedin.com/jobs/view/4476381472/) — Roameris
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Electrical Engineer](https://www.linkedin.com/jobs/view/4475862476/) — Simone’s Way2Go LLC
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $300,000.00/yr
+- 💰 **Salary:** $140,000–$180,000 annually
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer, Time](https://www.linkedin.com/jobs/view/4467282420/) — Justworks
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $188,000.00 to $242,000.00 per year
+### [Avionics Hardware Engineering Support F-16 WAM (Top-Secret) - 196](https://www.linkedin.com/jobs/view/4476332525/) — Credence
+- 📍 **Location:** Ohio, United States
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer, International Payroll](https://www.linkedin.com/jobs/view/4467293311/) — Justworks
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $188,000.00 to $242,000.00 per year
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Software Engineer, Onboarding](https://www.linkedin.com/jobs/view/4467274610/) — Justworks
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $188,000.00 to $242,000.00 per year
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4466136045/) — BlinkRx
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4467288974/) — Blossom
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Electrical Engineer - Mission Critical](https://www.linkedin.com/jobs/view/4392768405/) — DLR Group
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $84,700 - $144,430 USD
-- 🕒 **Posted:** 2026-10-06
-
-### [Staff Software Engineer - Frontend (NYC)](https://www.linkedin.com/jobs/view/4355201871/) — Databricks
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,900—$253,750 USD
-- 🕒 **Posted:** 2026-10-06
-
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4474044795/) — Humana
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4476384662/) — METRIX IT SOLUTIONS INC
 - 📍 **Location:** Texas, United States
-- 💰 **Salary:** $129,300.00/yr - $177,800.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior DevSecOps Platform Engineer](https://www.linkedin.com/jobs/view/4476381671/) — Accenture Federal Services
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $129,800—$194,300 USD
 - 🕒 **Posted:** 2026-10-06
