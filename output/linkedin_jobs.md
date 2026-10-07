@@ -1,56 +1,42 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-06 22:46 UTC*
+*Last updated: 2026-10-07 02:07 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Software Engineer I(RTX)](https://www.linkedin.com/jobs/view/4476363633/) — ScoutBetter
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-10-06
+### [Controls Engineer](https://www.linkedin.com/jobs/view/4474424240/) — Challenge Manufacturing
+- 📍 **Location:** Kansas City, MO
+- 🕒 **Posted:** 2026-10-07
 
-### [Field Electrical Engineer](https://www.linkedin.com/jobs/view/4476372446/) — NV5
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $100,000 - $135,000 per year
-- 🕒 **Posted:** 2026-10-06
-
-### [Field Electrical Engineer](https://www.linkedin.com/jobs/view/4476363870/) — NV5
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $100,000 - $135,000 per year
-- 🕒 **Posted:** 2026-10-06
-
-### [Field Electrical Engineer](https://www.linkedin.com/jobs/view/4476374434/) — NV5
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $100,000 - $135,000 per year
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer Senior](https://www.linkedin.com/jobs/view/4475115540/) — Acuity
-- 📍 **Location:** Washington, MO
-- 💰 **Salary:** $120,800.00 to $217,400.00 USD
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4476378922/) — Navan
+### [Principal Systems Engineer (C++) - AI Infrastructure](https://www.linkedin.com/jobs/view/4476528191/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $113,400 USD - $252,000 USD
-- 🕒 **Posted:** 2026-10-06
+- 💰 **Salary:** $50.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4476381472/) — Roameris
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Electrical Engineer](https://www.linkedin.com/jobs/view/4475862476/) — Simone’s Way2Go LLC
+### [Lead Systems Engineer (Rust) - AI Platform](https://www.linkedin.com/jobs/view/4476521479/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000–$180,000 annually
-- 🕒 **Posted:** 2026-10-06
+- 💰 **Salary:** $50.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-10-07
 
-### [Avionics Hardware Engineering Support F-16 WAM (Top-Secret) - 196](https://www.linkedin.com/jobs/view/4476332525/) — Credence
-- 📍 **Location:** Ohio, United States
-- 🕒 **Posted:** 2026-10-06
+### [Software Engineer — AI Code Ranking](https://www.linkedin.com/jobs/view/4476512970/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-10-07
 
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4476384662/) — METRIX IT SOLUTIONS INC
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-10-06
+### [Software Engineer, Early Career (NYC)](https://www.linkedin.com/jobs/view/4475144348/) — Affirm
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $130,000 - 180,000
+- 🕒 **Posted:** 2026-10-07
 
-### [Senior DevSecOps Platform Engineer](https://www.linkedin.com/jobs/view/4476381671/) — Accenture Federal Services
+### [Senior Software Engineer, Mobile (React Native)](https://www.linkedin.com/jobs/view/4475132836/) — Forage
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $185,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4459086377/) — Lansweeper
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Staff Software Engineer in Test, Compiler & Systems Validation](https://www.linkedin.com/jobs/view/4475146203/) — Code Metal
 - 📍 **Location:** Washington, DC
-- 💰 **Salary:** $129,800—$194,300 USD
-- 🕒 **Posted:** 2026-10-06
+- 💰 **Salary:** $153,000.00/yr - $183,000.00/yr
+- 🕒 **Posted:** 2026-10-07
