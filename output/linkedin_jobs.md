@@ -1,77 +1,43 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-10 01:52 UTC*
+*Last updated: 2026-10-10 11:58 UTC*
 
-**15 new role(s)** since last run · 15 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4478002301/) — Serco
-- 📍 **Location:** Virginia, United States
+### [Electrical Engineer(PLC Engineer/ Robotics Programmer)](https://www.linkedin.com/jobs/view/4466642872/) — Kartech Solutions, Inc.
+- 📍 **Location:** Alabama, United States
 - 🕒 **Posted:** 2026-10-10
 
-### [Senior Electrical Engineer](https://www.linkedin.com/jobs/view/4477889743/) — Serco
-- 📍 **Location:** Maryland, United States
+### [Staff Software Engineer, Data Visualization](https://www.linkedin.com/jobs/view/4466911101/) — DoorDash
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $193,800—$285,000 USD
 - 🕒 **Posted:** 2026-10-10
 
-### [Principal Software Engineer](https://www.linkedin.com/jobs/view/4466578141/) — ETHOS - Talent & Advisory
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
+### [Associate Storage/Systems Engineer](https://www.linkedin.com/jobs/view/4468025381/) — AHEAD
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $80,000 - $88,000
 - 🕒 **Posted:** 2026-10-10
 
-### [Senior Software Engineer, Fullstack (App Experience)](https://www.linkedin.com/jobs/view/4476881213/) — Affirm
+### [Staff Software Engineer, Demand Bidder, Ad Serving Platform](https://www.linkedin.com/jobs/view/4441275318/) — Roku
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $195,000 – $408,000 annually
+- 🕒 **Posted:** 2026-10-10
+
+### [Hyland OnBase Software Engineer](https://www.linkedin.com/jobs/view/4475610637/) — Humana
+- 📍 **Location:** Tennessee, United States
+- 💰 **Salary:** $80,900.00/yr - $110,300.00/yr
+- 🕒 **Posted:** 2026-10-10
+
+### [Senior Software Engineer, HGB IT](https://www.linkedin.com/jobs/view/4475612534/) — Humana
+- 📍 **Location:** Tennessee, United States
+- 💰 **Salary:** $106,900.00/yr - $147,000.00/yr
+- 🕒 **Posted:** 2026-10-10
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4469182693/) — The Nuclear Company
 - 📍 **Location:** Washington, DC
-- 💰 **Salary:** $195,000 - $255,000
+- 💰 **Salary:** $121,000 - $143,000 annually
 - 🕒 **Posted:** 2026-10-10
 
-### [Automation Engineer](https://www.linkedin.com/jobs/view/4476212493/) — Shoolin Inc
-- 📍 **Location:** Indiana, United States
-- 💰 **Salary:** $114,400.00/yr - $135,200.00/yr
-- 🕒 **Posted:** 2026-10-09
-
-### [Staff Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4425871177/) — Ro
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $211,700 to $292,000,
-- 🕒 **Posted:** 2026-10-09
-
-### [Senior Software Engineer, Frontend - Care Platform Clinical Workflows](https://www.linkedin.com/jobs/view/4425868201/) — Ro
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,800 to $234,500,
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4476863467/) — swipejobs
-- 📍 **Location:** Rochester, New York Metropolitan Area
-- 💰 **Salary:** $46.00/hr - $53.00/hr
-- 🕒 **Posted:** 2026-10-09
-
-### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4425851475/) — Ro
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,800 to $234,500,
-- 🕒 **Posted:** 2026-10-09
-
-### [Principal Software Engineer](https://www.linkedin.com/jobs/view/4326061150/) — Ro
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $266,100 to $340,000,
-- 🕒 **Posted:** 2026-10-09
-
-### [Staff Software Engineer, Backend](https://www.linkedin.com/jobs/view/4301641193/) — Ro
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $223,100 to $311,000,
-- 🕒 **Posted:** 2026-10-09
-
-### [Senior Software Engineer, Backend - Care Platform Operations](https://www.linkedin.com/jobs/view/4266581967/) — Ro
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,800 to $234,500,
-- 🕒 **Posted:** 2026-10-09
-
-### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4301398088/) — Ro
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,800 to $234,500,
-- 🕒 **Posted:** 2026-10-09
-
-### [Staff Software Engineer - Identity and Privacy](https://www.linkedin.com/jobs/view/4392171345/) — Ro
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $223,100 to $311,000,
-- 🕒 **Posted:** 2026-10-09
-
-### [Instrumentation and Controls Engineering Manager (46603)](https://www.linkedin.com/jobs/view/4477888380/) — Jacobs
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $140,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-09
+### [Illumio Zero Trust Platform Engineer](https://www.linkedin.com/jobs/view/4458310858/) — Disruptive Solutions, LLC
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $137,900 - 197,000
+- 🕒 **Posted:** 2026-10-10
