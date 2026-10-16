@@ -1,5 +1,5 @@
 # ☕ HiringCafe — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-15 07:56 UTC*
+*Last updated: 2026-10-16 07:49 UTC*
 
 **0 new role(s)** since last run · 18 total in last 30d
 
