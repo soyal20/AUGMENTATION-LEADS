@@ -1,379 +1,336 @@
 # 🟦 Indeed — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-17 05:10 UTC*
+*Last updated: 2026-10-18 07:17 UTC*
 
-**58 new role(s)** since last run · 294 total in last 24h
+**51 new role(s)** since last run · 51 total in last 24h
 
-### [Controls Engineer](https://www.indeed.com/viewjob?jk=930eeb65d949c3fa) — SSOE Group
-- 📍 **Location:** Scottsdale, AZ, USA
-- 💰 **Salary:** $85k–$95k/yr
+### [PNT Software Engineer](https://www.indeed.com/viewjob?jk=fad8b76d6b4f01a7) — Integrated Solutions for Systems
+- 📍 **Location:** Auburn, AL, USA
+- 💰 **Salary:** $80k–$160k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=1d969defdbedf198) — Molex
-- 📍 **Location:** Conway, AR, USA
+### [Systems Engineer - Level 3 - Space AHT](https://www.indeed.com/viewjob?jk=e87470998ecefa72) — Northrop Grumman
+- 📍 **Location:** Chandler, AZ, USA
+- 💰 **Salary:** $98k–$148k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-17
 
-### [Embedded Real Time Operating System Staff Software Engineer (QuRT OS, Zephyr)](https://www.indeed.com/viewjob?jk=8cf49b914212ec66) — Qualcomm
-- 📍 **Location:** San Diego, CA, USA
-- 💰 **Salary:** $160k–$240k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Industrial PLC and Safety Controls Engineer](https://www.indeed.com/viewjob?jk=6baae4dd96b96172) — Amax Engineering
-- 📍 **Location:** Fremont, CA, USA
-- 💰 **Salary:** $90k–$110k/yr
+### [Senior Electrical Engineer](https://www.indeed.com/viewjob?jk=d7137520f2fec179) — Verustruct
+- 📍 **Location:** Torrance, CA, USA
+- 💰 **Salary:** $160k–$205k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
+- 🕒 **Posted:** 2026-10-18
 
-### [Staff Firmware Engineer](https://www.indeed.com/viewjob?jk=9d794fd62ba20604) — Watney
-- 📍 **Location:** San Francisco, CA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Production Systems Engineer, Edge](https://www.indeed.com/viewjob?jk=4d862b2d1c8042da) — Meta
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $118k–$170k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Production Systems Engineer, Edge](https://www.indeed.com/viewjob?jk=54624841c0ba7604) — Meta
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $173k–$245k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=9f7f913d4f480afe) — Hewlett Packard Enterprise | HPE
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $108k–$218k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Senior Robotics Engineer](https://www.indeed.com/viewjob?jk=199dde96c53aecde) — Rovr Network
+### [Senior System Software Engineer, Display Security](https://www.indeed.com/viewjob?jk=99171491b3ca77a5) — NVIDIA
 - 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $184k–$356k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Vehicle Battery Systems Engineer](https://www.indeed.com/viewjob?jk=e1cb727e5817faf2) — Anduril
-- 📍 **Location:** Long Beach, CA, USA
-- 💰 **Salary:** $166k–$220k/yr
+### [SoC Pre-Silicon Platform Engineering Program Manager](https://www.indeed.com/viewjob?jk=7dc189ed56282170) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $145k–$264k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-16
+- 🕒 **Posted:** 2026-10-17
 
-### [Hardware Engineer III (Full-Time) - United States](https://www.indeed.com/viewjob?jk=1e0627f709a49f52) — Cisco
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $124k–$201k/yr
+### [Electrical Engineer](https://www.indeed.com/viewjob?jk=d9d106d97751ce4a) — Alpha Talent
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $80–$120/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Space Vehicle Systems Engineer – Level 5](https://www.indeed.com/viewjob?jk=bc0e272b009de4f4) — Northrop Grumman
-- 📍 **Location:** Redondo Beach, CA, USA
-- 💰 **Salary:** $177k–$266k/yr
+### [Software Engineer, Edge](https://www.indeed.com/viewjob?jk=a1023ce8ee068678) — Kargo
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $130k–$150k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-16
+- 🕒 **Posted:** 2026-10-18
 
-### [Staff Software Engineer](https://www.indeed.com/viewjob?jk=66fa9b29c753a3df) — Northrop Grumman
-- 📍 **Location:** El Segundo, CA, USA
-- 💰 **Salary:** $177k–$266k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-16
-
-### [EDA/CAD Software Engineer, Staff](https://www.indeed.com/viewjob?jk=97f92884805eef3b) — Qualcomm
-- 📍 **Location:** Folsom, CA, USA
-- 💰 **Salary:** $146k–$218k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-16
-
-### [Android AOSP Device Software Engineer](https://www.indeed.com/viewjob?jk=a4a170e386c57e62) — Fiserv
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $160k–$240k/yr
+### [Senior Robotics Software Engineer](https://www.indeed.com/viewjob?jk=8799e1faa32738e6) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $184k–$356k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Electrical Engineer III/IV](https://www.indeed.com/viewjob?jk=969670b2c95cfbfc) — Zone 5 Technologies
-- 📍 **Location:** San Luis Obispo, CA, USA
-- 💰 **Salary:** $116k–$200k/yr
+### [Hardware System Integration Electrical Engineer - Mac](https://www.indeed.com/viewjob?jk=0e92ed9eb408c581) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $129k–$225k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-17
 
-### [Senior Flight Software Engineer](https://www.indeed.com/viewjob?jk=73e5d2ecbcb48eee) — Astroscale U.S.
-- 📍 **Location:** Denver, CO, USA
+### [Systems Engineer](https://www.indeed.com/viewjob?jk=166e6211011e8a33) — Systems Planning and Analysis, Inc. (SPA)
+- 📍 **Location:** Port Hueneme, CA, USA
+- 💰 **Salary:** $115k–$135k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Electrical Engineer I - FPGA Designer](https://www.indeed.com/viewjob?jk=4f36f0f77e61dce8) — U.S. Forensic
+### [Controls & AI Systems Engineer](https://www.indeed.com/viewjob?jk=93f8e38550f36b83) — SLAC National Accelerator Laboratory
+- 📍 **Location:** Menlo Park, CA, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [SEIT CAM Systems Engineer Level 3/4 (AHT)](https://www.indeed.com/viewjob?jk=22a8a169084be5a5) — Northrop Grumman
+- 📍 **Location:** Los Angeles, CA, USA
+- 💰 **Salary:** $114k–$213k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Systems Engineer Senior - Level 3](https://www.indeed.com/viewjob?jk=265971d7ecf88eb7) — Lockheed Martin
+- 📍 **Location:** Littleton, CO, USA
+- 💰 **Salary:** $96k–$178k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Systems Engineer - Sentinel](https://www.indeed.com/viewjob?jk=965796ebed61d768) — Auria
 - 📍 **Location:** Colorado Springs, CO, USA
-- 💰 **Salary:** $100k–$150k/yr
+- 💰 **Salary:** $70k–$175k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-17
+
+### [Systems Engineering Ground Test - Pre-Production & Deployment System Test Manager](https://www.indeed.com/viewjob?jk=05ed319cf4152329) — Lockheed Martin
+- 📍 **Location:** Littleton, CO, USA
+- 💰 **Salary:** $145k–$270k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Senior Electrical Engineer - FPGA Designer](https://www.indeed.com/viewjob?jk=1fd28c84ed7965b0) — U.S. Forensic
-- 📍 **Location:** Colorado Springs, CO, USA
-- 💰 **Salary:** $175k–$250k/yr
+### [Senior Systems Engineer - Pre-Production & Deployment](https://www.indeed.com/viewjob?jk=e8c7f3a749776588) — Lockheed Martin
+- 📍 **Location:** Littleton, CO, USA
+- 💰 **Salary:** $96k–$178k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Platform Software Engineer](https://www.indeed.com/viewjob?jk=fab30c961bb54d79) — Hewlett Packard Enterprise | HPE
-- 📍 **Location:** Fort Collins, CO, USA
+### [Systems Engineer, Senior](https://www.indeed.com/viewjob?jk=93b8ca1efe9963cd) — Lockheed Martin
+- 📍 **Location:** Titusville, FL, USA
+- 💰 **Salary:** $85k–$158k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Systems Engineering Ground Test - Production and Deployment Test Manager](https://www.indeed.com/viewjob?jk=179ddccb3034c8e0) — Lockheed Martin
+- 📍 **Location:** Titusville, FL, USA
+- 💰 **Salary:** $145k–$270k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Software Engineer - E2](https://www.indeed.com/viewjob?jk=f40c7dedcab3fe57) — Lockheed Martin
+- 📍 **Location:** Cape Canaveral, FL, USA
+- 💰 **Salary:** $81k–$150k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Electronics Engineer](https://www.indeed.com/viewjob?jk=3dc816c4262d4e9c) — Lockheed Martin
+- 📍 **Location:** Cape Canaveral, FL, USA
+- 💰 **Salary:** $70k–$131k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Controls Engineer](https://www.indeed.com/viewjob?jk=7f73eb97d81b0477) — The Marzetti Company
+- 📍 **Location:** College Park, GA, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [2027 Associate/ Embedded Software Engineer - Rolling Meadows IL](https://www.indeed.com/viewjob?jk=1e8214f2f0f1ea34) — Northrop Grumman
+- 📍 **Location:** Rolling Meadows, IL, USA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-17
+
+### [Signal Integrity Systems Engineer (Entry level to Senior)](https://www.indeed.com/viewjob?jk=2ab0bc47e5dab8c8) — Molex
+- 📍 **Location:** Lisle, IL, USA
+- 💰 **Salary:** $80k–$150k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-17
+
+### [Senior Power Electrical Engineer - Mission Systems Power Electronics (Onsite)](https://www.indeed.com/viewjob?jk=ea83ce785a95505a) — Collins Aerospace
+- 📍 **Location:** Cedar Rapids, IA, USA
+- 💰 **Salary:** $87k–$165k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Power Electrical Engineer II - Mission Systems (Onsite)](https://www.indeed.com/viewjob?jk=e423eec946085fde) — Collins Aerospace
+- 📍 **Location:** Cedar Rapids, IA, USA
+- 💰 **Salary:** $69k–$131k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [2027 Associate Embedded Software Engineer - Pathways Program - Baltimore MD](https://www.indeed.com/viewjob?jk=7133bcf5ae9e8639) — Northrop Grumman
+- 📍 **Location:** Baltimore, MD, USA
+- 💰 **Salary:** $73k–$109k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-17
+
+### [RF Software Engineer 3 - (C++, Linux, Python)](https://www.indeed.com/viewjob?jk=1b79866f5c74cf1e) — Akina, Inc.
+- 📍 **Location:** Annapolis Junction, MD, USA
+- 💰 **Salary:** $256k–$313k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-17
+
+### [Cloud Software Engineer 2 - (Cloud, Hadoop, Java)](https://www.indeed.com/viewjob?jk=74adc459b18872d6) — Akina, Inc.
+- 📍 **Location:** Annapolis Junction, MD, USA
+- 💰 **Salary:** $225k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-17
+
+### [Software Engineer 2 - (Software Configuration Management, Release Engineering, RPM)](https://www.indeed.com/viewjob?jk=bc3c0e54692d3b9f) — Akina, Inc.
+- 📍 **Location:** Annapolis Junction, MD, USA
+- 💰 **Salary:** $215k–$263k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-17
+
+### [Senior Cloud Software Engineer](https://www.indeed.com/viewjob?jk=6e4fae6d6e452ed6) — Riverstone Enterprise Solutions
+- 📍 **Location:** Annapolis Junction, MD, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Manager Electronics Engineering 2](https://www.indeed.com/viewjob?jk=4ebe2cf939581cae) — Northrop Grumman
+- 📍 **Location:** Baltimore, MD, USA
+- 💰 **Salary:** $154k–$231k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Software Engineer ? Broadcast Media Platforms](https://www.indeed.com/viewjob?jk=6de555ce462d76da) — Eccalon
+- 📍 **Location:** Detroit, MI, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Controls Engineer III](https://www.indeed.com/viewjob?jk=c4c6fbd67ad25f0d) — Switch Data Centers
+- 📍 **Location:** Las Vegas, NV, USA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-18
+
+### [Software Engineer, ASE Commerce Engineering](https://www.indeed.com/viewjob?jk=a03529d75bc2456e) — Apple
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $150k–$278k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-17
+
+### [Sr Embedded Software Engineer](https://www.indeed.com/viewjob?jk=b85db187b14e894e) — Scott Safety Supply Services Inc.
+- 📍 **Location:** Monroe, NC, USA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-18
+
+### [Hardware Engineer Hybrid](https://www.indeed.com/viewjob?jk=b0a346580ac3ea2c) — Cisco
+- 📍 **Location:** Research Triangle Park, NC, USA
+- 💰 **Salary:** $116k–$226k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Senior Principal Mechatronics & Controls Engineer(Onsite)](https://www.indeed.com/viewjob?jk=e3cb061b023ea2da) — Collins Aerospace
+- 📍 **Location:** Winston-Salem, NC, USA
 - 💰 **Salary:** $132k–$252k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Electrical Engineer III/IV](https://www.indeed.com/viewjob?jk=e66695ef5dd55824) — Zone 5 Technologies
-- 📍 **Location:** Fort Walton Beach, FL, USA
-- 💰 **Salary:** $116k–$200k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Senior Software Engineer - Agentic AI and Frontend Applications](https://www.indeed.com/viewjob?jk=0f9041fd45ab767d) — Invesco
-- 📍 **Location:** Atlanta, GA, USA
-- 💰 **Salary:** $110k–$130k/yr
+### [Senior Electrical Powertrain Software Engineer I](https://www.indeed.com/viewjob?jk=584177725b159835) — American Honda Motor
+- 📍 **Location:** Raymond, OH, USA
+- 💰 **Salary:** $84k–$106k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Senior Cloud Systems Engineer](https://www.indeed.com/viewjob?jk=e3b4ea46222ec43f) — Central Pacific Bank (HI)
-- 📍 **Location:** Honolulu, HI, USA
-- 💰 **Salary:** $87k–$123k/yr
+### [Software Engineer - E2](https://www.indeed.com/viewjob?jk=6ce564f508c3e3b3) — Lockheed Martin
+- 📍 **Location:** King of Prussia, PA, USA
+- 💰 **Salary:** $91k–$169k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime, internship
+- 🕒 **Posted:** 2026-10-17
+
+### [Systems Engineer Sr - E3](https://www.indeed.com/viewjob?jk=cb798baa00a6f935) — Lockheed Martin
+- 📍 **Location:** King of Prussia, PA, USA
+- 💰 **Salary:** $96k–$178k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Cloud Production Platform Engineer](https://www.indeed.com/viewjob?jk=c1b9ba3d6e3ffe45) — Meta
-- 📍 **Location:** Kuna, ID, USA
-- 💰 **Salary:** $173k–$245k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Cloud Production Platform Engineer](https://www.indeed.com/viewjob?jk=f77f986595dbddee) — Meta
-- 📍 **Location:** DeKalb, IL, USA
-- 💰 **Salary:** $173k–$245k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Cloud Production Platform Engineer](https://www.indeed.com/viewjob?jk=337ab61860b1f1dd) — Meta
-- 📍 **Location:** Altoona, IA, USA
-- 💰 **Salary:** $173k–$245k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [FPGA/Embedded Hardware Design Engineer](https://www.indeed.com/viewjob?jk=84b89b7527ac84be) — SAIC
-- 📍 **Location:** College Park, MD, USA
-- 💰 **Salary:** $200k–$240k/yr
+### [Senior Process & Automation Engineer - Automotive Manufacturing](https://www.indeed.com/viewjob?jk=2c4a3d8b704c4a85) — Johnson Electric
+- 📍 **Location:** Springfield, TN, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Board Level Hardware Design Engineer](https://www.indeed.com/viewjob?jk=ce86110c34b98fbb) — SAIC
-- 📍 **Location:** College Park, MD, USA
-- 💰 **Salary:** $200k–$240k/yr
+### [Senior Software Engineer – Go/Rust/C++ - AI Native Platform](https://www.indeed.com/viewjob?jk=44f3894403d890d8) — Lansweeper
+- 📍 **Location:** Austin, TX, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Electronics Engineer Sr Stf](https://www.indeed.com/viewjob?jk=f76de8ef1a08ce58) — Lockheed Martin
-- 📍 **Location:** Severn, MD, USA
-- 💰 **Salary:** $116k–$300k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-16
-
-### [Senior Electro-Optical Systems Engineer](https://www.indeed.com/viewjob?jk=d902b293a52efe84) — Trinzic
-- 📍 **Location:** Greenbelt, MD, USA
-- 💰 **Salary:** $171k–$257k/yr
+### [Senior Electrical Engineer (Onsite)](https://www.indeed.com/viewjob?jk=da0a2c54ee0617b9) — Collins Aerospace
+- 📍 **Location:** McKinney, TX, USA
+- 💰 **Salary:** $87k–$165k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Software Engineer/Developer, Staff](https://www.indeed.com/viewjob?jk=db1d6121a15fe343) — AMERICAN SYSTEMS
-- 📍 **Location:** California, MD, USA
-- 💰 **Salary:** $82k–$95k/yr
+### [Sentinel - Launch Execution Network (LEN) Systems Engineer - 14378-1](https://www.indeed.com/viewjob?jk=c0e25dc6986250d2) — Northrop Grumman
+- 📍 **Location:** Roy, UT, USA
+- 💰 **Salary:** $79k–$119k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Software Engineer - C#](https://www.indeed.com/viewjob?jk=f811a35b279f3211) — Teradyne
-- 📍 **Location:** North Reading, MA, USA
-- 💰 **Salary:** $133k–$213k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-16
-
-### [Principal Software Test Automation Engineer](https://www.indeed.com/viewjob?jk=52f8f5970262c21f) — Olympus Corporation
-- 📍 **Location:** Westborough, MA, USA
-- 💰 **Salary:** $138k–$193k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-16
-
-### [Electronics Engineer (IS-0855-9/11)](https://www.indeed.com/viewjob?jk=da53a306bbd411d1) — Smithsonian Institution
-- 📍 **Location:** Cambridge, MA, USA
-- 💰 **Salary:** $70k–$110k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Engineer 1](https://www.indeed.com/viewjob?jk=3d435b0fd10b9007) — OSI Systems, Inc
-- 📍 **Location:** Billerica, MA, USA
-- 💰 **Salary:** $38–$43/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Engineer - C#](https://www.indeed.com/viewjob?jk=9ca985fdf8336e31) — Teradyne
-- 📍 **Location:** North Reading, MA, USA
-- 💰 **Salary:** $133k–$213k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineering Manager-AI/ML](https://www.indeed.com/viewjob?jk=ff420ffc384a3bb7) — KLA
-- 📍 **Location:** Ann Arbor, MI, USA
-- 💰 **Salary:** $114k–$194k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Cloud Production Platform Engineer](https://www.indeed.com/viewjob?jk=7c412dc4f5ae2d49) — Meta
-- 📍 **Location:** Rosemount, MN, USA
-- 💰 **Salary:** $173k–$245k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Controls Engineer](https://www.indeed.com/viewjob?jk=43a9c36e3fccf811) — Hussmann
-- 📍 **Location:** Bridgeton, MO, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Electrical Controls Engineer](https://www.indeed.com/viewjob?jk=b88c84b5ae9d2bfe) — Molex
-- 📍 **Location:** Lincoln, NE, USA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Engineer - Space Programs](https://www.indeed.com/viewjob?jk=fc18b9b23076e3e0) — Peraton
-- 📍 **Location:** Las Cruces, NM, USA
-- 💰 **Salary:** $51k–$82k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Engineer, Full Stack — Dots](https://www.indeed.com/viewjob?jk=96f309350b107610) — OpenAI
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $347k–$385k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Engineer, Machine Learning RecSys](https://www.indeed.com/viewjob?jk=e51a12dbe1174fd0) — Meta
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $154k–$217k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Engineering Manager, AI for Wearables and Health.](https://www.indeed.com/viewjob?jk=cd2b09fea7afe586) — Meta
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $219k–$301k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Cloud Production Platform Engineer](https://www.indeed.com/viewjob?jk=4ebbf2a02403b4b1) — Meta
-- 📍 **Location:** Tulsa, OK, USA
-- 💰 **Salary:** $173k–$245k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Electrical Engineer](https://www.indeed.com/viewjob?jk=dd75292d0cc884e4) — ASRC Federal
-- 📍 **Location:** Oklahoma City, OK, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Cloud Production Platform Engineer](https://www.indeed.com/viewjob?jk=58481d7e300b1faf) — Meta
-- 📍 **Location:** OR, USA
-- 💰 **Salary:** $173k–$245k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Electrical Engineer I, Manufacturing and Test](https://www.indeed.com/viewjob?jk=e1b8dbba0b45a9fd) — Reading Bakery Systems
-- 📍 **Location:** Sinking Spring, PA, USA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Early Career Electrical Controls Engineer](https://www.indeed.com/viewjob?jk=806d50f8665aff50) — BNH
-- 📍 **Location:** Arnold AFB, TN, USA
-- 💰 **Salary:** $69k–$101k/yr
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [HPC & AI - Software Engineering Resolution Engineer](https://www.indeed.com/viewjob?jk=12242886ab58b21f) — Hewlett Packard Enterprise | HPE
-- 📍 **Location:** Spring, TX, USA
-- 💰 **Salary:** $126k–$290k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Electrical Engineer III/IV](https://www.indeed.com/viewjob?jk=8e77bc78843a06fc) — Zone 5 Technologies
-- 📍 **Location:** Fort Worth, TX, USA
-- 💰 **Salary:** $116k–$200k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Engineer I](https://www.indeed.com/viewjob?jk=5cdfe20b820ecfce) — Twenty-Six Defense
-- 📍 **Location:** Roanoke, VA, USA
-- 💰 **Salary:** $72k–$118k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=088b5c8b0ab86051) — Twenty-Six Defense
-- 📍 **Location:** Roanoke, VA, USA
-- 💰 **Salary:** $83k–$136k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Automation Engineer I](https://www.indeed.com/viewjob?jk=1305d14d19e48b4d) — Twenty-Six Defense
-- 📍 **Location:** Roanoke, VA, USA
-- 💰 **Salary:** $72k–$118k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-17
-
-### [Cloud Production Platform Engineer](https://www.indeed.com/viewjob?jk=6451b01d1761a8a2) — Meta
+### [Director, Software Engineering](https://www.indeed.com/viewjob?jk=d85492bc4653283d) — S&P Global
 - 📍 **Location:** VA, USA
-- 💰 **Salary:** $173k–$245k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Automation Engineer II](https://www.indeed.com/viewjob?jk=09cab97a98843880) — Twenty-Six Defense
-- 📍 **Location:** Roanoke, VA, USA
-- 💰 **Salary:** $83k–$136k/yr
+- 💰 **Salary:** $110k–$225k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [PKI Systems Engineer](https://www.indeed.com/viewjob?jk=72eb0bad88777cf3) — SAIC
-- 📍 **Location:** Springfield, VA, USA
-- 💰 **Salary:** $100k–$140k/yr
+### [Software Engineer - Forward Deployed Engineer](https://www.indeed.com/viewjob?jk=f436cad217989b25) — Microsoft
+- 📍 **Location:** Redmond, WA, USA
+- 💰 **Salary:** $85k–$184k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
 
-### [Cloud Production Platform Engineer](https://www.indeed.com/viewjob?jk=950d1b88b922faa0) — Meta
-- 📍 **Location:** Cheyenne, WY, USA
-- 💰 **Salary:** $173k–$245k/yr
+### [Senior Hardware Engineer](https://www.indeed.com/viewjob?jk=93c321d8baefc94c) — Microsoft
+- 📍 **Location:** Redmond, WA, USA
+- 💰 **Salary:** $120k–$261k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-17
+
+### [Senior Software Engineer, Apple Services Engineering](https://www.indeed.com/viewjob?jk=01e168891f035848) — Apple
+- 📍 **Location:** Seattle, WA, USA
+- 💰 **Salary:** $175k–$308k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-17
+
+### [Software Engineer, Apple Services Engineering](https://www.indeed.com/viewjob?jk=f1474b72655d95f8) — Apple
+- 📍 **Location:** Seattle, WA, USA
+- 💰 **Salary:** $142k–$263k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-17
+
+### [AWS Cloud Engineer - Software Engineering - Top Secret Clearance](https://www.indeed.com/viewjob?jk=9adc055904760388) — Deloitte
+- 📍 **Location:** Washington, DC, USA
+- 💰 **Salary:** $89k–$148k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-18
+
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=40eb8effa3d35934) — Microsoft
+- 📍 **Location:** Washington, DC, USA
+- 💰 **Salary:** $120k–$261k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-17
