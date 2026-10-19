@@ -1,54 +1,53 @@
 # 🟦 Indeed — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-19 00:06 UTC*
+*Last updated: 2026-10-19 01:52 UTC*
 
-**8 new role(s)** since last run · 13 total in last 24h
+**8 new role(s)** since last run · 19 total in last 24h
 
-### [Software Engineer - Systems Performance, CoreOS](https://www.indeed.com/viewjob?jk=c9f2931dedc9c086) — Apple
-- 📍 **Location:** San Diego, CA, USA
-- 💰 **Salary:** $142k–$263k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-18
-
-### [SoC Machine Learning Software Engineer](https://www.indeed.com/viewjob?jk=03ef73fff73dba06) — Apple
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $129k–$195k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-18
-
-### [Wireless PHY Systems Engineer - Pre-Silicon Emulation](https://www.indeed.com/viewjob?jk=c4768cf0c22f3a86) — Apple
-- 📍 **Location:** San Francisco Bay Area, CA, USA
-- 💰 **Salary:** $185k–$325k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-18
-
-### [iOS Telephony Software Engineer, Wireless Technologies & Ecosystems](https://www.indeed.com/viewjob?jk=e8c623adff87affa) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $129k–$195k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-18
-
-### [Electrical Engineer](https://www.indeed.com/viewjob?jk=05c63bb2856cb85b) — Relling
-- 📍 **Location:** San Francisco, CA, USA
+### [Systems Engineer](https://www.indeed.com/viewjob?jk=11ed458c266473a9) — Glim USA
+- 📍 **Location:** Phoenix, AZ, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-18
+- 🕒 **Posted:** 2026-10-19
 
-### [Systems Engineer - Apple Reference Image](https://www.indeed.com/viewjob?jk=ba6b6365de844727) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $150k–$278k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-18
-
-### [Junior/Assistant Specialist - Department of Electrical Engineering and Computer Science](https://www.indeed.com/viewjob?jk=e68e3f36f7e42483) — University of California Berkeley
-- 📍 **Location:** Berkeley, CA, USA
-- 💰 **Salary:** $57k–$73k/yr
+### [(1109256) Autonomy Systems Engineer](https://www.indeed.com/viewjob?jk=5e35c6c5647fda7e) — Diversified Services Network
+- 📍 **Location:** Peoria, IL, USA
+- 💰 **Salary:** $80k–$85k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-18
+- 🕒 **Posted:** 2026-10-19
 
-### [Thermal Systems Engineer](https://www.indeed.com/viewjob?jk=9ff7385d6a324451) — Flex
-- 📍 **Location:** Littleton, MA, USA
-- 💰 **Salary:** $105k–$144k/yr
+### [Associate Embedded Software Engineer (DRT)](https://www.indeed.com/viewjob?jk=9b2a5940f459d084) — Thales
+- 📍 **Location:** Germantown, MD, USA
+- 💰 **Salary:** $81k–$104k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-19
+
+### [Junior RF Software Engineer](https://www.indeed.com/viewjob?jk=f8eace534dd7b069) — VTG Defense
+- 📍 **Location:** Hanover, MD, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-18
+- 🕒 **Posted:** 2026-10-19
+
+### [RF Software Engineer](https://www.indeed.com/viewjob?jk=6dc7fd63d3fb44b5) — VTG Defense
+- 📍 **Location:** Hanover, MD, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-19
+
+### [Principal RF Software Engineer](https://www.indeed.com/viewjob?jk=63fcfcbf3967f68c) — VTG Defense
+- 📍 **Location:** Hanover, MD, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-19
+
+### [Junior Systems Engineer](https://www.indeed.com/viewjob?jk=1c4cc5f32bc24662) — VTG Defense
+- 📍 **Location:** Fort Meade, MD, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-19
+
+### [Firmware/Embedded Software Engineer](https://www.indeed.com/viewjob?jk=c462a24f12c45315) — Edge AI Solutions, Inc
+- 📍 **Location:** Homestead, PA, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-19
