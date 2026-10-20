@@ -1,7 +1,29 @@
 {
-  "scraped_at": "2026-10-18 23:58 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-20 07:36 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Wistron",
+      "title": "Hardware Engineer",
+      "location": "California, United States",
+      "url": "https://www.linkedin.com/jobs/view/4468487851/",
+      "date_posted": "2026-10-20",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "【Job Location】Santa Clara/Dallas\n【Job Description】\nSupport RFI, RFP, and RFQ activities and prepare Server hardware design proposals\nPerform logical circuit design and schematic development\nConduct PCB layout reviews and checks to ensure design integrity and manufacturability\nMaintain and optimize card BOMs, including component standardization and cost reduction initiatives\nOwn overall EE project responsibility, from project kickoff through mass production (M.P.) release\nPerform tolerance analysis, simulations, and technical issue resolution\nOptimize hardware system designs with focus on PCIe, power delivery, and thermal solutions\nEngage with customers early in the concept stage to support design alignment and requirements definition\nCollaborate closely with cross-functional teams including mechanical, system, manufacturing, and quality\n\n【Requirements】\nMinimum 3+ years of hardware R&D experience\nStrong knowledge of hardware circuit design and system architecture\nExperience with layout review, tolerance analysis, and simulations\nUnderstanding of PCIe, power delivery, and thermal design concepts\nExperience managing BOMs and driving design optimization and cost reduction\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nAppliances, Electrical, and Electronics Manufacturing"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Wistron",
+      "title": "Hardware Engineer",
+      "location": "California, United States",
+      "url": "https://www.linkedin.com/jobs/view/4468487851/",
+      "date_posted": "2026-10-20",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "【Job Location】Santa Clara/Dallas\n【Job Description】\nSupport RFI, RFP, and RFQ activities and prepare Server hardware design proposals\nPerform logical circuit design and schematic development\nConduct PCB layout reviews and checks to ensure design integrity and manufacturability\nMaintain and optimize card BOMs, including component standardization and cost reduction initiatives\nOwn overall EE project responsibility, from project kickoff through mass production (M.P.) release\nPerform tolerance analysis, simulations, and technical issue resolution\nOptimize hardware system designs with focus on PCIe, power delivery, and thermal solutions\nEngage with customers early in the concept stage to support design alignment and requirements definition\nCollaborate closely with cross-functional teams including mechanical, system, manufacturing, and quality\n\n【Requirements】\nMinimum 3+ years of hardware R&D experience\nStrong knowledge of hardware circuit design and system architecture\nExperience with layout review, tolerance analysis, and simulations\nUnderstanding of PCIe, power delivery, and thermal design concepts\nExperience managing BOMs and driving design optimization and cost reduction\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nAppliances, Electrical, and Electronics Manufacturing"
+    }
+  ]
 }
