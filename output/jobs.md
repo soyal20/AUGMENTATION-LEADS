@@ -1,4 +1,4 @@
 # 🏛 Fresh US Embedded Engineering Lead Job Listings (All 50 States + Washington DC · United States Only)
-*Last updated: 2026-10-19 10:51 UTC*
+*Last updated: 2026-10-20 08:30 UTC*
 
 **0 role(s) posted in the last 24 hours**
