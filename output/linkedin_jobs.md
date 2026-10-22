@@ -1,58 +1,44 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-22 09:51 UTC*
+*Last updated: 2026-10-22 21:31 UTC*
 
-**12 new role(s)** since last run · 12 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Forward Deployed Software Engineer, Public Sector](https://www.linkedin.com/jobs/view/4479493966/) — FDE Times
-- 📍 **Location:** Greater Colorado Springs Area
-- 💰 **Salary:** $184,000—$292,560 USD
+### [Senior Storage Infrastructure Software Engineer - EDA Infrastructure](https://www.linkedin.com/jobs/view/4472376302/) — NVIDIA
+- 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-10-22
 
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4480019048/) — Virtusa
-- 📍 **Location:** New York, United States
+### [Systems Engineer, Senior](https://www.linkedin.com/jobs/view/4445179900/) — AMERICAN SYSTEMS
+- 📍 **Location:** Colorado Springs, CO
 - 🕒 **Posted:** 2026-10-22
 
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4480002839/) — Virtusa
-- 📍 **Location:** New York, United States
+### [Systems Engineer - Arizona or New Mexico](https://www.linkedin.com/jobs/view/4437464029/) — Motorola Solutions
+- 📍 **Location:** Illinois, United States
+- 💰 **Salary:** $95,000 to $105,000 USD
 - 🕒 **Posted:** 2026-10-22
 
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4480008631/) — Virtusa
-- 📍 **Location:** New York, United States
+### [Senior Hardware Engineering Lead - Biopharma Solutions](https://www.linkedin.com/jobs/view/4480087080/) — Beckman Coulter Life Sciences
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-10-22
 
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4476462039/) — Virtusa
-- 📍 **Location:** New York, United States
+### [Senior/Staff Fleet Platform Engineer — Scale & Deploy](https://www.linkedin.com/jobs/view/4480066835/) — Viam
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $190,000 - $259,000/year
 - 🕒 **Posted:** 2026-10-22
 
-### [VP of Controls Engineering](https://www.linkedin.com/jobs/view/4472631549/) — Jobot
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $220,000.00/yr - $275,000.00/yr
+### [Junior Software Engineer - Rokt Residency](https://www.linkedin.com/jobs/view/4480070820/) — Rokt
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-22
 
-### [Automation Engineer - Beckhoff TwinCAT - USA](https://www.linkedin.com/jobs/view/4424079425/) — ekvip automation GmbH
-- 📍 **Location:** Rhode Island, United States
+### [Founding Software Engineer (PhD)](https://www.linkedin.com/jobs/view/4477067930/) — Mentor Talent Acquisition
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $120,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-10-22
 
-### [Embedded Firmware Validation Engineer - Super I/O](https://www.linkedin.com/jobs/view/4482455551/) — Nuvoton Technology Corporation America
-- 📍 **Location:** Austin, Texas Metropolitan Area
+### [Automation Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4480089098/) — IT Minds LLC
+- 📍 **Location:** Ohio, United States
 - 🕒 **Posted:** 2026-10-22
 
-### [Software  Systems Engineer Principal](https://www.linkedin.com/jobs/view/4482444834/) — SAIC
-- 📍 **Location:** Virginia, United States
-- 💰 **Salary:** $160,001 - $200,000
-- 🕒 **Posted:** 2026-10-22
-
-### [Transport Network Automation Engineer](https://www.linkedin.com/jobs/view/4472197036/) — Jobot
-- 📍 **Location:** Maryland, United States
-- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-22
-
-### [Junior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4477055764/) — Haystack
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $80,000.00/yr - $128,000.00/yr
-- 🕒 **Posted:** 2026-10-22
-
-### [Full Stack Developer - Software Engineer III - Top Secret clearance](https://www.linkedin.com/jobs/view/4465605707/) — Deloitte
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $113,000 to $188,400
+### [Top Secret C#/.NET Software Engineer](https://www.linkedin.com/jobs/view/4480216488/) — Insight Global
+- 📍 **Location:** Charleston, South Carolina Metropolitan Area
+- 💰 **Salary:** $115,000.00/yr - $135,000.00/yr
 - 🕒 **Posted:** 2026-10-22
