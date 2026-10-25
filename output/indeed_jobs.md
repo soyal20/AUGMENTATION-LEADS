@@ -1,44 +1,72 @@
 # 🟦 Indeed — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-25 07:01 UTC*
+*Last updated: 2026-10-25 23:50 UTC*
 
-**6 new role(s)** since last run · 81 total in last 24h
+**11 new role(s)** since last run · 17 total in last 24h
 
-### [Department of Public Health Systems Engineer](https://www.indeed.com/viewjob?jk=d9b39f94b16464a4) — San Bernardino County
-- 📍 **Location:** San Bernardino, CA, USA
-- 💰 **Salary:** $96k–$136k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-25
-
-### [Principal Systems Engineer](https://www.indeed.com/viewjob?jk=71cf34be08cd234d) — Northrop Grumman
-- 📍 **Location:** Beale AFB, CA, USA
-- 💰 **Salary:** $109k–$163k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-24
-
-### [Electrical Engineer Asc - Level 1](https://www.indeed.com/viewjob?jk=12e818579ade93c1) — Lockheed Martin
-- 📍 **Location:** Orlando, FL, USA
-- 💰 **Salary:** $58k–$108k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-24
-
-### [Senior Systems Engineer-Air Transport Engineering](https://www.indeed.com/viewjob?jk=bf8a634008191da5) — BAE Systems USA
-- 📍 **Location:** Fort Wayne, IN, USA
-- 💰 **Salary:** $79k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-25
-
-### [Software Engineering (AI/ML), Retail and Marcom Engineering](https://www.indeed.com/viewjob?jk=447f59497a4cc1e1) — Apple
-- 📍 **Location:** Austin, TX, USA
+### [Senior Firmware Engineer](https://www.indeed.com/viewjob?jk=4893544c5fdf5650) — Apple
+- 📍 **Location:** Cupertino, CA, USA
 - 💰 **Salary:** $150k–$278k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-24
+- 🕒 **Posted:** 2026-10-25
 
-### [IoT engineer II - ST, Seattle, WA](https://www.indeed.com/viewjob?jk=df116af9c047c8dc) — Starbucks
-- 📍 **Location:** Seattle, WA, USA
-- 💰 **Salary:** $111k–$185k/yr
+### [Sr Principal Cyber Systems Engineer](https://www.indeed.com/viewjob?jk=65fea6b0a3a84408) — Northrop Grumman
+- 📍 **Location:** San Diego, CA, USA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-25
+
+### [Software Engineer, Find My](https://www.indeed.com/viewjob?jk=1e674ab0648cf927) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $150k–$278k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-25
+
+### [Senior Software Engineer - Finance Engineering](https://www.indeed.com/viewjob?jk=c45953cdc8f1524e) — Apple
+- 📍 **Location:** San Francisco Bay Area, CA, USA
+- 💰 **Salary:** $185k–$325k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-25
+
+### [Embedded Software Engineer Asc](https://www.indeed.com/viewjob?jk=5ed23c9f4b81a41c) — Lockheed Martin
+- 📍 **Location:** Orlando, FL, USA
+- 💰 **Salary:** $67k–$124k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-25
+
+### [Embedded Software Engineer- Level 2](https://www.indeed.com/viewjob?jk=d00a2f200e251d07) — Lockheed Martin
+- 📍 **Location:** Orlando, FL, USA
+- 💰 **Salary:** $81k–$150k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-25
+
+### [Bioinformatics Software Engineer III, OncoKB](https://www.indeed.com/viewjob?jk=86d6886e23789fe4) — Memorial Sloan Kettering Cancer Center
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $124k–$205k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-25
+
+### [Sr Machine Learning Engineer, ML Systems Engineering - Proactive](https://www.indeed.com/viewjob?jk=e49973d6a5f9adb3) — Apple
+- 📍 **Location:** Pittsburgh, PA, USA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-25
+
+### [Staff Electrical Engineer](https://www.indeed.com/viewjob?jk=0a1e7f566a13e0d7) — Henpen Corporation
+- 📍 **Location:** Sioux Falls, SD, USA
+- 💰 **Salary:** $135k–$165k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-25
+
+### [Embedded Software Engineer- Level 2](https://www.indeed.com/viewjob?jk=29271574e8b2d5f5) — Lockheed Martin
+- 📍 **Location:** Grand Prairie, TX, USA
+- 💰 **Salary:** $81k–$150k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-25
+
+### [Systems Engineer Senior](https://www.indeed.com/viewjob?jk=7904eb98ceb528d6) — General Dynamics Information Technology
+- 📍 **Location:** Langley AFB, VA, USA
+- 💰 **Salary:** $98k–$132k/yr
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-25
