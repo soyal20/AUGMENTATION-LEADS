@@ -1,9 +1,17 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-25 06:14 UTC*
+*Last updated: 2026-10-25 23:41 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Software Engineer, Oncology Applications](https://www.linkedin.com/jobs/view/4483360759/) — BioSpace
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $126,000 - $224,400
+### [Senior Manager, Engineering - Data Center Firmware](https://www.linkedin.com/jobs/view/4428783056/) — NVIDIA
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-10-25
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437935743/) — Odyssey
+- 📍 **Location:** Colorado Springs, CO
+- 🕒 **Posted:** 2026-10-25
+
+### [Specialist, Software Engineering (Full Stack)](https://www.linkedin.com/jobs/view/4466498121/) — L3Harris Technologies
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $97,000-$180,000
 - 🕒 **Posted:** 2026-10-25
