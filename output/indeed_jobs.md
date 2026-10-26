@@ -1,23 +1,18 @@
 # 🟦 Indeed — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-26 04:56 UTC*
+*Last updated: 2026-10-26 07:58 UTC*
 
-**3 new role(s)** since last run · 16 total in last 24h
+**2 new role(s)** since last run · 16 total in last 24h
 
-### [Sr. Manager, Electrical Engineer - Facilities (ONSITE - Tucson AZ)](https://www.indeed.com/viewjob?jk=a6afcc6ff47501c1) — RTX
-- 📍 **Location:** Tucson, AZ, USA
-- 💰 **Salary:** $132k–$252k/yr
+### [Software Engineer, Infrastructure](https://www.indeed.com/viewjob?jk=40fc939a5f23e8fb) — SODALIS
+- 📍 **Location:** Palo Alto, CA, USA
+- 💰 **Salary:** $185k–$215k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-26
 
-### [Backend Software Engineer - Data Retention - TikTok Privacy and Security](https://www.indeed.com/viewjob?jk=d2c8bd5852a0821e) — TikTok
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $162k–$388k/yr
+### [SENIOR AI SOFTWARE ENGINEER/AI ENGINEER](https://www.indeed.com/viewjob?jk=e067b07c5114f76c) — HII
+- 📍 **Location:** Newport News, VA, USA
+- 💰 **Salary:** $144k–$190k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Systems Engineer, Contested Operations](https://www.indeed.com/viewjob?jk=e7d29fe8e1e7bc0c) — Viasat
-- 📍 **Location:** Duluth, GA, USA
-- 💰 **Salary:** $142k–$264k/yr
-- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-26
