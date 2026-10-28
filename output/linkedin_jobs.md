@@ -1,28 +1,23 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-28 09:35 UTC*
+*Last updated: 2026-10-28 22:10 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Systems Engineer Principal](https://www.linkedin.com/jobs/view/4483840631/) — SAIC
+### [Electrical Engineer - Hydro Plants](https://www.linkedin.com/jobs/view/4482542792/) — Global Technical Talent, an Inc. 5000 Company
 - 📍 **Location:** California, United States
-- 💰 **Salary:** $160,001 - $200,000
+- 💰 **Salary:** $75.00–$85.00
 - 🕒 **Posted:** 2026-10-28
 
-### [Senior Electrical Engineer](https://www.linkedin.com/jobs/view/4484433141/) — Serco
-- 📍 **Location:** Maryland, United States
+### [Lead Software Engineer (Release/DevOps Engineer) - Columbus, OH (Hybrid)](https://www.linkedin.com/jobs/view/4484739440/) — Arkhya Tech Inc.
+- 📍 **Location:** Ohio, United States
 - 🕒 **Posted:** 2026-10-28
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4483842696/) — Haystack
-- 📍 **Location:** Austin, Texas Metropolitan Area
-- 💰 **Salary:** $143,700 – $194,400
+### [Assistant Professor, Department of Industrial, Mechatronics & Systems Engineering](https://www.linkedin.com/jobs/view/4484725981/) — Morgan State University
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $75,000 - $90,000
 - 🕒 **Posted:** 2026-10-28
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4483848533/) — Haystack
-- 📍 **Location:** Texas, United States
-- 💰 **Salary:** $143,700 – $194,400
-- 🕒 **Posted:** 2026-10-28
-
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4483850565/) — Haystack
-- 📍 **Location:** Maryland, United States
-- 💰 **Salary:** $73,160 – $100,000
+### [Senior Systems Engineer, Browser Isolation](https://www.linkedin.com/jobs/view/4482550708/) — Cloudflare
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $168,000 - $231,000
 - 🕒 **Posted:** 2026-10-28
