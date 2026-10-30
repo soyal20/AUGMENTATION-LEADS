@@ -1,20 +1,28 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-30 02:01 UTC*
+*Last updated: 2026-10-30 21:48 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Senior Systems Engineer – HPE Campus and Branch](https://www.linkedin.com/jobs/view/4485265144/) — HPE Aruba Networking
-- 📍 **Location:** Delaware, United States
+### [Principal Systems Engineer - Colorado Springs, CO](https://www.linkedin.com/jobs/view/4485398981/) — Davidson Technologies
+- 📍 **Location:** Colorado Springs, CO
 - 🕒 **Posted:** 2026-10-30
 
-### [Senior Systems Engineer – HPE Campus and Branch](https://www.linkedin.com/jobs/view/4485252970/) — HPE Aruba Networking
-- 📍 **Location:** Maryland, United States
+### [Systems Engineer – Medical Devices](https://www.linkedin.com/jobs/view/4484877901/) — Novozen Healthcare LLC
+- 📍 **Location:** Minnesota, United States
+- 💰 **Salary:** $35.00/hr - $39.00/hr
 - 🕒 **Posted:** 2026-10-30
 
-### [Senior Systems Engineer – HPE Campus and Branch](https://www.linkedin.com/jobs/view/4485262335/) — HPE Aruba Networking
-- 📍 **Location:** Massachusetts, United States
+### [Systems Engineer – Medical Devices](https://www.linkedin.com/jobs/view/4485100051/) — Novozen Healthcare LLC
+- 📍 **Location:** Minnesota, United States
+- 💰 **Salary:** $38.00/hr - $39.00/hr
 - 🕒 **Posted:** 2026-10-30
 
-### [Sr Electrical Engineer](https://www.linkedin.com/jobs/view/4475717187/) — Kansas City National Security Campus
-- 📍 **Location:** Kansas City, MO
+### [Software Engineer](https://www.linkedin.com/jobs/view/4480673296/) — AppCard, Inc.
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-10-30
+
+### [DeltaV Automation Engineer - Pharma/Bio](https://www.linkedin.com/jobs/view/4484893995/) — Novozen Healthcare LLC
+- 📍 **Location:** Pennsylvania, United States
+- 💰 **Salary:** $48.00/hr - $54.00/hr
 - 🕒 **Posted:** 2026-10-30
