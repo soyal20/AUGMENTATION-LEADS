@@ -1,18 +1,13 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-10-31 07:39 UTC*
+*Last updated: 2026-11-01 00:18 UTC*
 
-**3 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Advisor Clinical Tech Systems Engineering for CT Design and Operations](https://www.linkedin.com/jobs/view/4485670827/) — BioSpace
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $162,000 - $268,400
+### [Radar Scenario Development Engineer / Systems Engineer - Colorado Springs, CO](https://www.linkedin.com/jobs/view/4485920474/) — Davidson Technologies
+- 📍 **Location:** Colorado Springs, CO
 - 🕒 **Posted:** 2026-10-31
 
-### [Associate, Software Engineer - Aladdin Graph](https://www.linkedin.com/jobs/view/4485130634/) — Archer
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $132,500.00/yr - $162,000.00/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Junior Software Engineer - Remote](https://www.linkedin.com/jobs/view/4485677395/) — Serco
-- 📍 **Location:** Virginia, United States
+### [Founding Software Engineer (UX/UI & Systems) - Top 10 Robotics/Hard Tech Startup - Manhattan, NYC - $350k Cash + Founding Equity](https://www.linkedin.com/jobs/view/4480654111/) — Open Talent
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $200,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-31
