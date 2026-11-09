@@ -1,28 +1,13 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-11-07 08:49 UTC*
+*Last updated: 2026-11-09 01:36 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Senior Security Firmware Engineer, Data Center Systems](https://www.linkedin.com/jobs/view/4487384842/) — NVIDIA
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-11-07
+### [Jr. Systems Engineer - Colorado Springs, CO](https://www.linkedin.com/jobs/view/4488807167/) — Davidson Technologies
+- 📍 **Location:** Colorado Springs, CO
+- 🕒 **Posted:** 2026-11-08
 
-### [R&D Software Engineer](https://www.linkedin.com/jobs/view/4444637361/) — Broadcom
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-11-07
-
-### [Senior System Software Engineer - Factory Bringup](https://www.linkedin.com/jobs/view/4487388849/) — NVIDIA
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-11-07
-
-### [Senior Linux Systems Engineer - EDA Infrastructure](https://www.linkedin.com/jobs/view/4487393750/) — NVIDIA
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-11-07
-
-### [Senior System Software Engineer - Factory Bringup](https://www.linkedin.com/jobs/view/4487601359/) — NVIDIA
-- 📍 **Location:** Colorado, United States
-- 🕒 **Posted:** 2026-11-07
-
-### [Senior Software Engineer (AI Orchestrator)](https://www.linkedin.com/jobs/view/4486638275/) — Feuji
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-11-07
+### [Full Stack Software Engineer, Compute](https://www.linkedin.com/jobs/view/4487115573/) — Nominal
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $179,000.00/yr - $310,000.00/yr
+- 🕒 **Posted:** 2026-11-08
