@@ -1,18 +1,13 @@
 # 🔥 LinkedIn — US Embedded Engineering Lead Roles
-*Last updated: 2026-11-15 08:12 UTC*
+*Last updated: 2026-11-15 21:46 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Senior Electrical Engineer](https://www.linkedin.com/jobs/view/4491225499/) — Serco
-- 📍 **Location:** Maryland, United States
+### [Automation Engineer](https://www.linkedin.com/jobs/view/4491259692/) — KAPS Automation
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-11-15
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4490204818/) — Haystack
-- 📍 **Location:** Austin, Texas Metropolitan Area
-- 💰 **Salary:** $143,700 – $194,400
-- 🕒 **Posted:** 2026-11-15
-
-### [Automation Engineer](https://www.linkedin.com/jobs/view/4490203999/) — Haystack
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $86,900 - $198,000
+### [Systems Engineer](https://www.linkedin.com/jobs/view/4490237612/) — Harris Teeter
+- 📍 **Location:** Iowa, United States
+- 💰 **Salary:** $65,000 - $75,000,
 - 🕒 **Posted:** 2026-11-15
