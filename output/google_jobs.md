@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — US Embedded Engineering Lead Roles
-*Last updated: 2026-11-15 08:33 UTC*
+*Last updated: 2026-11-18 10:40 UTC*
 
 **0 new role(s)** since last run · 2 total in last 24h
 
